@@ -1,0 +1,24 @@
+$work = Join-Path $env:TEMP 'PerformanceCollectionTrial'
+New-Item -ItemType Directory -Path $work -Force | Out-Null
+
+$source = Join-Path $work 'source.bin'
+$buffer = New-Object byte[] (4MB)
+$random = New-Object System.Random
+$stream = [System.IO.File]::Create($source)
+
+try {
+    1..32 | ForEach-Object {
+        $random.NextBytes($buffer)
+        $stream.Write($buffer, 0, $buffer.Length)
+    }
+}
+finally {
+    $stream.Dispose()
+}
+
+1..3 | ForEach-Object {
+    Copy-Item $source (Join-Path $work "copy-$_.bin") -Force
+}
+
+Remove-Item $work -Recurse -Force
+Write-Host '簡易負荷テスト完了'
