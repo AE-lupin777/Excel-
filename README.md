@@ -1,1 +1,5 @@
-& "$env:WINDIR\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "Import-Module Microsoft.PowerShell.Diagnostics; Get-Command Get-Counter,Export-Counter,Import-Counter -ErrorAction SilentlyContinue | Select-Object Name,Source"
+Name           Source
+----           ------
+Get-Counter    Microsoft.PowerShell.Diagnostics
+Export-Counter Microsoft.PowerShell.Diagnostics
+Import-Counter Microsoft.PowerShell.Diagnostics
