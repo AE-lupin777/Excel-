@@ -1,0 +1,140 @@
+フォルダー パスの一覧
+ボリューム シリアル番号は 00000018 24D6:6BD6 です
+C:.
+│  dir.txt
+│  
+└─04_Improved
+    └─PersistentHost_ReadyCandidate
+        │  Initialize-PerformanceCollection.cmd
+        │  README.md
+        │  
+        ├─config
+        │      counters.effective.txt
+        │      counters.txt
+        │      role.conf
+        │      
+        ├─logs
+        │      collector-host-02455da8a2f14cd3aad5505d8fb9047c.final.json
+        │      collector-host-2cbc3af0b54046a9a1ba2d003692020f.final.json
+        │      collector-host-67d0f6235e7f4a75a642b10f604d6fc3.final.json
+        │      collector-host.stderr.log
+        │      collector-host.stdout.log
+        │      collector-run-2a4d59c8bb85449387c3ada646d827bc.final.json
+        │      collector-run-4a342114d2be4e5b8cfb7688121c2191.final.json
+        │      collector-run-8032e742390d433398b5e2e020ad5e91.final.json
+        │      collector-run-89cf1b033d3846de809b51ad977c2395.final.json
+        │      collector-run-95427daee65b46cf9f2ca55cb836396b.final.json
+        │      collector-run-9f070dd7e82c4960a9532eed19a702d8.final.json
+        │      collector-run-ad46c6149cfc488a9f3efbe6481aa7d1.final.json
+        │      COMPARE_001_20261011_195953_4a342114d2be4e5b8cfb7688121c2191.log
+        │      CUSTOMER_TEST_001_20261011_202736_9f070dd7e82c4960a9532eed19a702d8.log
+        │      CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.log
+        │      CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.log
+        │      TEST_001_20261011_193529_95427daee65b46cf9f2ca55cb836396b.log
+        │      TEST_002_20261011_193827_ad46c6149cfc488a9f3efbe6481aa7d1.log
+        │      TEST_003_20261011_194028_2a4d59c8bb85449387c3ada646d827bc.log
+        │      
+        ├─output
+        │      COMPARE_001_20261011_195953_4a342114d2be4e5b8cfb7688121c2191.blg
+        │      COMPARE_001_20261011_195953_4a342114d2be4e5b8cfb7688121c2191.csv
+        │      CUSTOMER_TEST_001_20261011_202736_9f070dd7e82c4960a9532eed19a702d8.blg
+        │      CUSTOMER_TEST_001_20261011_202736_9f070dd7e82c4960a9532eed19a702d8.csv
+        │      CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.blg
+        │      CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.csv
+        │      CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.blg
+        │      CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.csv
+        │      TEST_001_20261011_193529_95427daee65b46cf9f2ca55cb836396b.blg
+        │      TEST_001_20261011_193529_95427daee65b46cf9f2ca55cb836396b.csv
+        │      TEST_002_20261011_193827_ad46c6149cfc488a9f3efbe6481aa7d1.blg
+        │      TEST_002_20261011_193827_ad46c6149cfc488a9f3efbe6481aa7d1.csv
+        │      TEST_003_20261011_194028_2a4d59c8bb85449387c3ada646d827bc.blg
+        │      TEST_003_20261011_194028_2a4d59c8bb85449387c3ada646d827bc.csv
+        │      
+        └─scripts
+                CollectorHost.ps1
+                Convert-PerformanceLog.ps1
+                HostCommon.ps1
+                PerformanceCollection.cmd
+                Setup-PerformanceCollection.ps1
+                Start-CollectorHost.ps1
+                Start-PerformanceCollection.ps1
+                Stop-CollectorHost.ps1
+                Stop-PerformanceCollection.ps1
+                Test-CollectorHostMutexIsolation.ps1
+                Test-ErrorPaths.ps1
+                Test-HostReadyLoss.ps1
+                Test-HostStateMismatch.ps1
+                Test-PerformanceCollection.ps1
+                Test-SafetyStateManagement.ps1
+                Test-StartFailureRecovery.ps1
+                
+フォルダー パスの一覧
+ボリューム シリアル番号は 00000018 24D6:6BD6 です
+C:.
+│  dir.txt
+│  
+└─04_Improved
+    └─PersistentHost_ReadyCandidate
+        │  Initialize-PerformanceCollection.cmd
+        │  README.md
+        │  
+        ├─config
+        │      counters.effective.txt
+        │      counters.txt
+        │      role.conf
+        │      
+        ├─logs
+        │      collector-host-02455da8a2f14cd3aad5505d8fb9047c.final.json
+        │      collector-host-2cbc3af0b54046a9a1ba2d003692020f.final.json
+        │      collector-host-67d0f6235e7f4a75a642b10f604d6fc3.final.json
+        │      collector-host.stderr.log
+        │      collector-host.stdout.log
+        │      collector-run-2a4d59c8bb85449387c3ada646d827bc.final.json
+        │      collector-run-4a342114d2be4e5b8cfb7688121c2191.final.json
+        │      collector-run-8032e742390d433398b5e2e020ad5e91.final.json
+        │      collector-run-89cf1b033d3846de809b51ad977c2395.final.json
+        │      collector-run-95427daee65b46cf9f2ca55cb836396b.final.json
+        │      collector-run-9f070dd7e82c4960a9532eed19a702d8.final.json
+        │      collector-run-ad46c6149cfc488a9f3efbe6481aa7d1.final.json
+        │      COMPARE_001_20261011_195953_4a342114d2be4e5b8cfb7688121c2191.log
+        │      CUSTOMER_TEST_001_20261011_202736_9f070dd7e82c4960a9532eed19a702d8.log
+        │      CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.log
+        │      CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.log
+        │      TEST_001_20261011_193529_95427daee65b46cf9f2ca55cb836396b.log
+        │      TEST_002_20261011_193827_ad46c6149cfc488a9f3efbe6481aa7d1.log
+        │      TEST_003_20261011_194028_2a4d59c8bb85449387c3ada646d827bc.log
+        │      
+        ├─output
+        │      COMPARE_001_20261011_195953_4a342114d2be4e5b8cfb7688121c2191.blg
+        │      COMPARE_001_20261011_195953_4a342114d2be4e5b8cfb7688121c2191.csv
+        │      CUSTOMER_TEST_001_20261011_202736_9f070dd7e82c4960a9532eed19a702d8.blg
+        │      CUSTOMER_TEST_001_20261011_202736_9f070dd7e82c4960a9532eed19a702d8.csv
+        │      CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.blg
+        │      CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.csv
+        │      CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.blg
+        │      CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.csv
+        │      TEST_001_20261011_193529_95427daee65b46cf9f2ca55cb836396b.blg
+        │      TEST_001_20261011_193529_95427daee65b46cf9f2ca55cb836396b.csv
+        │      TEST_002_20261011_193827_ad46c6149cfc488a9f3efbe6481aa7d1.blg
+        │      TEST_002_20261011_193827_ad46c6149cfc488a9f3efbe6481aa7d1.csv
+        │      TEST_003_20261011_194028_2a4d59c8bb85449387c3ada646d827bc.blg
+        │      TEST_003_20261011_194028_2a4d59c8bb85449387c3ada646d827bc.csv
+        │      
+        └─scripts
+                CollectorHost.ps1
+                Convert-PerformanceLog.ps1
+                HostCommon.ps1
+                PerformanceCollection.cmd
+                Setup-PerformanceCollection.ps1
+                Start-CollectorHost.ps1
+                Start-PerformanceCollection.ps1
+                Stop-CollectorHost.ps1
+                Stop-PerformanceCollection.ps1
+                Test-CollectorHostMutexIsolation.ps1
+                Test-ErrorPaths.ps1
+                Test-HostReadyLoss.ps1
+                Test-HostStateMismatch.ps1
+                Test-PerformanceCollection.ps1
+                Test-SafetyStateManagement.ps1
+                Test-StartFailureRecovery.ps1
+                
