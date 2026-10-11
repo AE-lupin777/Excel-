@@ -1,2 +1,1 @@
-C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ
-\04_Improved\PersistentHost_ReadyCandidate
+$Root="C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate"; "Role=$(Get-Content -LiteralPath "$Root\config\role.conf" -Raw)"; "SetupExists=$(Test-Path -LiteralPath "$Root\scripts\Setup-PerformanceCollection.ps1")"; "CmdExists=$(Test-Path -LiteralPath "$Root\scripts\PerformanceCollection.cmd")"
