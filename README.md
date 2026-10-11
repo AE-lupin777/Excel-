@@ -1,1 +1,15 @@
-& "C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\scripts\PerformanceCollection.cmd" stop
+Result            : Stopped
+LifecycleStatus   : CompletedValidated
+TestId            : CUSTOMER_TEST_002
+RunId             : 8032e742390d433398b5e2e020ad5e91
+HostId            : 67d0f6235e7f4a75a642b10f604d6fc3
+StartTime         : 2026-10-11T20:30:28.1324263+09:00
+StopTime          : 2026-10-11T20:32:18.0920577+09:00
+SampleCount       : 106
+CounterCount      : 16
+BlgPath           : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\output\CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.blg
+CsvPath           : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\output\CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.csv
+DataRows          : 106
+ColumnCount       : 17
+LogPath           : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\logs\CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.log
+TerminalStateFile : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\logs\collector-run-8032e742390d433398b5e2e020ad5e91.final.json
