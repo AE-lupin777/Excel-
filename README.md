@@ -1,1 +1,1 @@
-$Root="C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ"; "Role=$(Get-Content -LiteralPath "$Root\config\role.conf" -Raw)"; "SetupExists=$(Test-Path -LiteralPath "$Root\scripts\Setup-PerformanceCollection.ps1")"; "CmdExists=$(Test-Path -LiteralPath "$Root\scripts\PerformanceCollection.cmd")"
+C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ
