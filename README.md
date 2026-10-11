@@ -1,1 +1,3 @@
-& "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\scripts\PerformanceCollection.cmd" shutdown
+Result  ProcessId HostId                           ProcessStartTimeUtcTicks
+------  --------- ------                           ------------------------
+Stopped     10808 2cbc3af0b54046a9a1ba2d003692020f       639273115919841492
