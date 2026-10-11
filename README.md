@@ -1,12 +1,1 @@
-Result            : Started
-LifecycleStatus   : Running
-TestId            : CUSTOMER_TEST_002
-RunId             : 8032e742390d433398b5e2e020ad5e91
-HostId            : 67d0f6235e7f4a75a642b10f604d6fc3
-ProcessId         : 35588
-CounterCount      : 16
-SampleInterval    : 1
-BlgPath           : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\output\CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.blg
-StartTotalSeconds : 1.827
-StateFile         : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\logs\collection-state.json
-LogPath           : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\logs\CUSTOMER_TEST_002_20261011_203028_8032e742390d433398b5e2e020ad5e91.log
+& "C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\scripts\PerformanceCollection.cmd" stop
