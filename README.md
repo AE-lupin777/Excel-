@@ -1,3 +1,4 @@
-Get-ChildItem: Access to the path 'C:\Windows\System32\config\BFS' is denied.
-Get-ChildItem: Access to the path 'C:\Windows\System32\LogFiles\WMI\RtBackup' is denied.
-Get-ChildItem: Access to the path 'C:\Windows\System32\WebThreatDefSvc' is denied.
+$Root = "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate"
+
+Get-ChildItem -LiteralPath $Root -Recurse -Filter "PerformanceCollection.cmd" -File -ErrorAction SilentlyContinue |
+    Select-Object -ExpandProperty FullName
