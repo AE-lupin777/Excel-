@@ -1,12 +1,5 @@
-& "$env:WINDIR\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -Command {
-    "PSVersion=$($PSVersionTable.PSVersion)"
-    "Is64Bit=$([Environment]::Is64BitProcess)"
-    foreach ($name in 'Get-Counter','Import-Counter','Export-Counter') {
-        $cmd = Get-Command $name -ErrorAction SilentlyContinue
-        if ($cmd) {
-            "$name=Available"
-        } else {
-            "$name=Missing"
-        }
-    }
-}
+PSVersion=5.1.26100.9444
+Is64Bit=True
+Get-Counter=Available
+Import-Counter=Available
+Export-Counter=Available
