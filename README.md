@@ -1,1 +1,12 @@
-& "C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\scripts\PerformanceCollection.cmd" start CUSTOMER_TEST_003
+Result            : Started
+LifecycleStatus   : Running
+TestId            : CUSTOMER_TEST_003
+RunId             : 89cf1b033d3846de809b51ad977c2395
+HostId            : 67d0f6235e7f4a75a642b10f604d6fc3
+ProcessId         : 35588
+CounterCount      : 16
+SampleInterval    : 1
+BlgPath           : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\output\CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.blg
+StartTotalSeconds : 1.786
+StateFile         : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\logs\collection-state.json
+LogPath           : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\logs\CUSTOMER_TEST_003_20261011_203339_89cf1b033d3846de809b51ad977c2395.log
