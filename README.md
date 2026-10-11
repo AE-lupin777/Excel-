@@ -1,1 +1,2 @@
-$A="C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\config\counters.effective.txt"; $B="C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\config\counters.effective.txt"; "CurrentCount=$(@(Get-Content -LiteralPath $A).Count)"; "ImprovedCount=$(@(Get-Content -LiteralPath $B).Count)"; Compare-Object (Get-Content -LiteralPath $A) (Get-Content -LiteralPath $B)
+CurrentCount=10
+ImprovedCount=10
