@@ -1,1 +1,12 @@
-$Root = "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool"; Get-ChildItem -LiteralPath $Root -Recurse -File -ErrorAction SilentlyContinue | Where-Object { $_.Name -match '^(Start|Stop|Setup|Initialize|PerformanceCollection).*\.(cmd|ps1)$' } | Select-Object -ExpandProperty FullName
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\Initialize-PerformanceCollection.cmd
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\out2\Setup-PerformanceCollection.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\PerformanceCollection.cmd
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Setup-PerformanceCollection.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Start-PerformanceCollection-vNext.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Start-PerformanceCollection.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Stop-PerformanceCollection-vNext.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Stop-PerformanceCollection.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Start-PerformanceCollection-vNext.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Start-PerformanceCollection.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Stop-PerformanceCollection-vNext.ps1
+C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Stop-PerformanceCollection.ps1
