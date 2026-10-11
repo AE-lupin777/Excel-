@@ -1,5 +1,4 @@
-PSVersion=5.1.26100.9444
-Is64Bit=True
-Get-Counter=Available
-Import-Counter=Available
-Export-Counter=Available
+$Root = "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate"
+
+Get-Content -LiteralPath "$Root\scripts\PerformanceCollection.cmd"
+Get-Content -LiteralPath "$Root\scripts\Setup-PerformanceCollection.ps1" -TotalCount 45
