@@ -1,5 +1,1 @@
-Name           Source
-----           ------
-Get-Counter    Microsoft.PowerShell.Diagnostics
-Export-Counter Microsoft.PowerShell.Diagnostics
-Import-Counter Microsoft.PowerShell.Diagnostics
+& "$env:WINDIR\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "Import-Module Microsoft.PowerShell.Diagnostics; foreach (`$n in 'Get-Counter','Export-Counter','Import-Counter','Start-Process') { Write-Output (`$n + '=' + [bool](Get-Command `$n -ErrorAction SilentlyContinue)) }"
