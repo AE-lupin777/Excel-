@@ -1,1 +1,1 @@
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool
+$Root = "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool"; Get-ChildItem -LiteralPath $Root -Recurse -File -ErrorAction SilentlyContinue | Where-Object { $_.Name -match '^(Start|Stop|Setup|Initialize|PerformanceCollection).*\.(cmd|ps1)$' } | Select-Object -ExpandProperty FullName
