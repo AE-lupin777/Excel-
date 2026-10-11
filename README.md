@@ -1,7 +1,1 @@
-Required command is not available: Export-Counter
-発生場所 C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\scripts\Setup-PerformanceCollection.ps1:16 文字
-:9
-+         throw "Required command is not available: $CommandName"
-+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : OperationStopped: (Required comman... Export-Counter:String) [], RuntimeException
-    + FullyQualifiedErrorId : Required command is not available: Export-Counter
+$Root="C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate"; & "$env:WINDIR\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -File "$Root\scripts\Setup-PerformanceCollection.ps1"
