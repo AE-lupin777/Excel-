@@ -1,12 +1,1 @@
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\Initialize-PerformanceCollection.cmd
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\out2\Setup-PerformanceCollection.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\PerformanceCollection.cmd
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Setup-PerformanceCollection.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Start-PerformanceCollection-vNext.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Start-PerformanceCollection.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Stop-PerformanceCollection-vNext.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\Stop-PerformanceCollection.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Start-PerformanceCollection-vNext.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Start-PerformanceCollection.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Stop-PerformanceCollection-vNext.ps1
-C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\scripts\out\Stop-PerformanceCollection.ps1
+$A="C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool\PowerShell\config\counters.effective.txt"; $B="C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\config\counters.effective.txt"; "CurrentCount=$(@(Get-Content -LiteralPath $A).Count)"; "ImprovedCount=$(@(Get-Content -LiteralPath $B).Count)"; Compare-Object (Get-Content -LiteralPath $A) (Get-Content -LiteralPath $B)
