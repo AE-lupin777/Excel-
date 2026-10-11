@@ -6,3 +6,4 @@ Set-Location -LiteralPath "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\
 .\scripts\PerformanceCollection.cmd setup
 
 Set-Location: 引数 '.\scripts\PerformanceCollection.cmd' を受け取る位置指定パラメーターが見つかりません。
+Set-Location -LiteralPath "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate"; .\scripts\PerformanceCollection.cmd setup
