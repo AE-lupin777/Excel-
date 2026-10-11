@@ -1,1 +1,16 @@
-$Root="C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate"; & "$env:WINDIR\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -File "$Root\scripts\Setup-PerformanceCollection.ps1"
+Result               : Ready
+Role                 : sender
+ProcessName          : ULAgent.Sender
+PowerShellVersion    : 5.1.26100.8457
+CollectorPowerShell  : C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+CounterNameMode      : LocalizedRegistryMap
+IsAdministrator      : True
+SampleInterval       : 1
+ConfiguredCount      : 14
+EffectiveCount       : 16
+SkippedCount         : 0
+EffectiveCounterFile : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\config\counters.effective.txt
+OutputDirectory      : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\output
+LogDirectory         : C:\Users\val01\VAL安藤TMP\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate\logs
+CollectorHostResult  : Started
+CollectorHostPid     : 35588
