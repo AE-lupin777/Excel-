@@ -1,10 +1,1 @@
-発生場所 行:1 文字:58
-+ Import-Module Microsoft.PowerShell.Diagnostics; foreach ( in 'Get-Cou ...
-+                                                          ~
-foreach の後に変数名が存在しません。
-発生場所 行:1 文字:125
-+ ... t-Counter','Export-Counter','Import-Counter','Start-Process') { Write ...
-+                                                                 ~
-式またはステートメントのトークン ')' を使用できません。
-    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
-    + FullyQualifiedErrorId : MissingVariableNameAfterForeach
+$Root = "C:\Users\s-katsuhiro.ando\Desktop\アルバック様\Tools\PerformanceCounter_MonitoringTool_ZZ\04_Improved\PersistentHost_ReadyCandidate"; & "$env:WINDIR\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -NonInteractive -ExecutionPolicy Bypass -File "$Root\scripts\Setup-PerformanceCollection.ps1"
