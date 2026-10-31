@@ -1,0 +1,154 @@
+from __future__ import annotations
+import csv, json, re, sys
+from pathlib import Path
+from datetime import datetime
+
+from PySide6.QtCore import Qt
+from PySide6.QtGui import QColor, QPainter, QPen
+from PySide6.QtWidgets import (QApplication,QMainWindow,QWidget,QVBoxLayout,QHBoxLayout,QPushButton,QLabel,
+    QFileDialog,QTableWidget,QTableWidgetItem,QSplitter,QTextEdit,QComboBox,QTabWidget,QMessageBox,QGroupBox)
+
+TS_PATTERNS = [
+    (re.compile(r'^(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d+) ([+-]\d{2}:\d{2})'), '%Y-%m-%d %H:%M:%S.%f%z'),
+]
+
+def parse_iso(s):
+    if not s: return None
+    try: return datetime.fromisoformat(str(s).replace('Z','+00:00'))
+    except Exception: return None
+
+def parse_log_ts(line):
+    m=TS_PATTERNS[0][0].match(line)
+    if not m: return None
+    try: return datetime.strptime(m.group(1)+m.group(2), TS_PATTERNS[0][1])
+    except Exception: return None
+
+class EvidenceStore:
+    def __init__(self): self.reset()
+    def reset(self): self.events=[]; self.resources=[]; self.files={}; self.loaded=[]
+    def add_file(self,file_id,name,role='',status='',kind=''):
+        key=file_id or name
+        if not key:return
+        d=self.files.setdefault(key,{'fileId':file_id,'fileName':name,'type':kind,'status':status,'roles':set()})
+        if role:d['roles'].add(role)
+        if status:d['status']=status
+    def load_dir(self,root):
+        self.reset(); root=Path(root)
+        for p in root.rglob('*'):
+            if not p.is_file(): continue
+            n=p.name.lower()
+            try:
+                if n in ('all_results.json','records.json'): self._json(p)
+                elif n in ('records.csv','status.csv','execution_info.csv'): self._csv(p)
+                elif n.endswith('.log') and ('ulagent.sender-' in n or 'ulagent.receiver-' in n): self._log(p)
+                elif n.endswith('.csv'): self._resource_csv(p)
+            except Exception as e: self.loaded.append((str(p),f'ERROR: {e}'))
+        return len(self.loaded)
+    def _role_from(self,p):
+        s=str(p).lower(); return 'Sender' if 'sender' in s else ('Receiver' if 'receiver' in s else ('ULsight' if 'ulsight' in s else 'Unknown'))
+    def _json(self,p):
+        obj=json.loads(p.read_text(encoding='utf-8-sig')); role=self._role_from(p)
+        recs=obj.get('records',[]) if isinstance(obj,dict) else (obj if isinstance(obj,list) else [])
+        if isinstance(obj,dict) and obj.get('executionInfo',{}).get('target'): role=obj['executionInfo']['target']
+        for r in recs:
+            fid=str(r.get('fileId','')); fn=str(r.get('fileName','')); status=str(r.get('status') or r.get('registrationStatus') or r.get('receiveStatus') or '')
+            ts=parse_iso(r.get('updatedAt'))
+            self.add_file(fid,fn,role,status,str(r.get('logType','')))
+            self.events.append({'time':ts,'role':role,'point':'D' if role=='Sender' else 'H','type':'STATUS','fileId':fid,'fileName':fn,'status':status,'error':r.get('lastErrorCode') or r.get('registrationErrorCode') or r.get('receiveErrorCode'),'message':json.dumps(r,ensure_ascii=False)})
+        self.loaded.append((str(p),f'{len(recs)} records'))
+    def _csv(self,p):
+        with p.open(encoding='utf-8-sig',newline='') as f: rows=list(csv.DictReader(f))
+        role=self._role_from(p)
+        for r in rows:
+            if 'fileId' not in r: continue
+            fid=r.get('fileId','');fn=r.get('fileName','');status=r.get('status') or r.get('registrationStatus') or r.get('receiveStatus') or ''
+            self.add_file(fid,fn,role,status,r.get('logType',''))
+        self.loaded.append((str(p),f'{len(rows)} rows'))
+    def _log(self,p):
+        role=self._role_from(p); count=0
+        for line in p.read_text(encoding='utf-8-sig',errors='replace').splitlines():
+            ts=parse_log_ts(line)
+            if not ts: continue
+            point='E' if role=='Sender' else 'I'; typ='LOG'; status=''; err=''
+            low=line.lower()
+            if 'hosting starting' in low or 'application started' in low: typ='SYSTEM_START'
+            elif 'shutting down' in low or 'hosting stopped' in low: typ='SYSTEM_STOP'
+            elif '[err]' in low or 'failed permanently' in low: typ='ERROR'
+            elif 'durably stored' in low: typ='RECEIVED'; point='G'
+            elif 'responded 200' in low: typ='TRANSFER'
+            fid=''; m=re.search(r'\b[0-9A-F]{64}\b',line,re.I)
+            if m: fid=m.group(0)
+            self.events.append({'time':ts,'role':role,'point':point,'type':typ,'fileId':fid,'fileName':'','status':status,'error':err,'message':line})
+            count+=1
+        self.loaded.append((str(p),f'{count} log events'))
+    def _resource_csv(self,p):
+        # Conservative importer: only parse timestamp-like first column and numeric columns.
+        with p.open(encoding='utf-8-sig',errors='replace',newline='') as f:
+            rdr=csv.DictReader(f); count=0
+            if not rdr.fieldnames:return
+            for row in rdr:
+                ts=None
+                for k,v in row.items():
+                    if k and ('time' in k.lower() or 'date' in k.lower()): ts=parse_iso(v); break
+                if not ts: continue
+                for k,v in row.items():
+                    try: val=float(v)
+                    except Exception: continue
+                    self.resources.append({'time':ts,'role':self._role_from(p),'metric':k,'value':val})
+                count+=1
+            if count:self.loaded.append((str(p),f'{count} resource rows'))
+
+class Timeline(QWidget):
+    def __init__(self): super().__init__(); self.events=[]; self.setMinimumHeight(230)
+    def set_events(self,events): self.events=[e for e in events if e.get('time')]; self.update()
+    def paintEvent(self,_):
+        q=QPainter(self); q.fillRect(self.rect(),QColor('#ffffff')); q.setRenderHint(QPainter.Antialiasing)
+        q.setPen(QPen(QColor('#9badc0'),1)); y=80; q.drawLine(40,y,self.width()-30,y)
+        if not self.events:
+            q.setPen(QColor('#667788')); q.drawText(45,45,'Evidenceを読み込むと共通時間軸を表示します。'); return
+        ev=sorted(self.events,key=lambda x:x['time']); lo=ev[0]['time'].timestamp(); hi=max(lo+1,ev[-1]['time'].timestamp())
+        colors={'ERROR':'#e83e69','SYSTEM_STOP':'#666666','SYSTEM_START':'#2e9d62','STATUS':'#4aa3df','RECEIVED':'#8b5cf6','TRANSFER':'#0b79d0'}
+        for e in ev:
+            x=45+(self.width()-90)*(e['time'].timestamp()-lo)/(hi-lo)
+            c=QColor(colors.get(e['type'],'#2384d8')); q.setPen(QPen(c,2));q.setBrush(c);q.drawEllipse(int(x)-4,y-4,8,8)
+            q.drawText(int(x)-6,y-12,e.get('point',''))
+        q.setPen(QColor('#243b53')); q.drawText(40,25,ev[0]['time'].isoformat()); q.drawText(self.width()-260,25,ev[-1]['time'].isoformat())
+
+class Main(QMainWindow):
+    def __init__(self):
+        super().__init__(); self.store=EvidenceStore(); self.setWindowTitle('ULAgent Resource Timeline Viewer v0.1'); self.resize(1450,900)
+        root=QWidget();self.setCentralWidget(root);v=QVBoxLayout(root)
+        top=QHBoxLayout(); self.path=QLabel('Evidence: 未選択'); b=QPushButton('Evidenceフォルダを開く'); b.clicked.connect(self.open_dir); ai=QPushButton('AI解析プロンプト生成');ai.clicked.connect(self.ai_prompt); top.addWidget(b);top.addWidget(self.path,1);top.addWidget(ai);v.addLayout(top)
+        sp=QSplitter();v.addWidget(sp,1)
+        left=QWidget();lv=QVBoxLayout(left);lv.addWidget(QLabel('対象ファイル'))
+        self.files=QTableWidget(0,3);self.files.setHorizontalHeaderLabels(['FileName','Type','Status']);self.files.cellClicked.connect(self.select_file);lv.addWidget(self.files);sp.addWidget(left)
+        right=QWidget();rv=QVBoxLayout(right);self.summary=QLabel('Result: UNKNOWN | A: Not Observed');rv.addWidget(self.summary);self.timeline=Timeline();rv.addWidget(self.timeline)
+        self.tabs=QTabWidget();self.detail=QTextEdit();self.detail.setReadOnly(True);self.logs=QTableWidget(0,5);self.logs.setHorizontalHeaderLabels(['Time','Role','Point','Type','Message']);self.tabs.addTab(self.detail,'詳細');self.tabs.addTab(self.logs,'ログ / イベント');rv.addWidget(self.tabs,1);sp.addWidget(right);sp.setSizes([330,1100])
+    def open_dir(self):
+        p=QFileDialog.getExistingDirectory(self,'Evidenceフォルダを選択')
+        if not p:return
+        self.store.load_dir(p);self.path.setText('Evidence: '+p);self.populate()
+    def populate(self):
+        vals=list(self.store.files.values());self.files.setRowCount(len(vals))
+        for i,d in enumerate(vals):
+            for j,k in enumerate(('fileName','type','status')):self.files.setItem(i,j,QTableWidgetItem(str(d.get(k,''))))
+        self.timeline.set_events(self.store.events);self.show_events(self.store.events)
+        self.summary.setText(f'Result: UNKNOWN | Files: {len(vals)} | Events: {len(self.store.events)} | Resource samples: {len(self.store.resources)} | A: Not Observed')
+    def show_events(self,events):
+        ev=sorted([e for e in events if e.get('time')],key=lambda x:x['time']);self.logs.setRowCount(len(ev))
+        for i,e in enumerate(ev):
+            vals=[e['time'].isoformat(),e['role'],e['point'],e['type'],e['message']]
+            for j,x in enumerate(vals):self.logs.setItem(i,j,QTableWidgetItem(str(x)))
+    def select_file(self,row,_):
+        fn=self.files.item(row,0).text(); d=next((x for x in self.store.files.values() if x['fileName']==fn),{})
+        fid=d.get('fileId',''); ev=[e for e in self.store.events if (fid and e.get('fileId')==fid) or e.get('fileName')==fn]
+        self.timeline.set_events(ev);self.show_events(ev)
+        self.detail.setPlainText(json.dumps({**d,'roles':sorted(d.get('roles',[]))},ensure_ascii=False,indent=2))
+    def ai_prompt(self):
+        visible=[]
+        for r in range(self.logs.rowCount()):visible.append(' | '.join(self.logs.item(r,c).text() if self.logs.item(r,c) else '' for c in range(5)))
+        text='''あなたはシステム障害解析を支援するエンジニアです。以下に記載された観測事実だけを根拠として分析してください。\n\n【システム概要】\nファイルは LogManager → ULAgent Sender → TLS gRPC → ULAgent Receiver → ULsight の順で処理されます。\nA=ファイル生成・格納、B=Sender ULAgent処理、C=TLS gRPC、D=Sender状態管理、E=Senderログ、F=Senderリソース、G=Receiver ULAgent処理、H=Receiver状態管理、I=Receiverログ、J=Receiverリソース、K=ULsight処理、L=ULsightリソースです。\n\n【重要な制約】\nAの時刻は取得できない場合があります。Aを他イベントで代用しないでください。Timestampの原値を尊重し、PC間の時計差を勝手に補正しないでください。0と欠損を区別してください。Status APIの情報をSQLite内部SQL実行履歴とみなさないでください。観測されていない情報を事実として補完しないでください。明示的Errorがなくても、状態遷移の停滞、異常な処理時間、再起動、Evidence欠損を検討してください。\n\n【観測Evidence】\n'''+('\n'.join(visible) if visible else '表示中のイベントなし')+'''\n\n【回答形式】\n1. 観測された事実\n2. Attention / Error / Unknown\n3. 原因候補と根拠\n4. 判断できないこと\n5. 次に確認すべきEvidence\n'''
+        dlg=QMessageBox(self);dlg.setWindowTitle('AI解析プロンプト');dlg.setText('プロンプトをクリップボードへコピーしました。ViewerからAIサービスへの通信は行いません。'); QApplication.clipboard().setText(text);dlg.exec()
+
+if __name__=='__main__':
+    app=QApplication(sys.argv); app.setStyleSheet('QMainWindow{background:#eef4f9} QPushButton{padding:7px 12px} QTableWidget,QTextEdit{background:white}'); w=Main();w.show();sys.exit(app.exec())
