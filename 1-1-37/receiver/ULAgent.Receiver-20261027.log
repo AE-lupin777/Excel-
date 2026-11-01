@@ -1,0 +1,1626 @@
+2026-10-27 00:31:03.933 +00:00 [INF] HTTP GET /health responded 200 in 0.0567 ms
+2026-10-27 00:31:03.979 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4874 ms
+2026-10-27 00:31:03.981 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7410 ms
+2026-10-27 00:31:44.858 +00:00 [DBG] Reading message.
+2026-10-27 00:31:44.861 +00:00 [DBG] Sending message.
+2026-10-27 00:31:44.861 +00:00 [DBG] Reading message.
+2026-10-27 00:31:44.896 +00:00 [DBG] Sending message.
+2026-10-27 00:31:44.896 +00:00 [DBG] Reading message.
+2026-10-27 00:31:44.902 +00:00 [DBG] Sending message.
+2026-10-27 00:31:44.902 +00:00 [INF] Receiver durably stored 0CF005885B8CF295132B4D12EFBEAA724D4FD15EBA12BE739F7C199B3922CC3C; registration is pending.
+2026-10-27 00:31:44.902 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 43.9929 ms
+2026-10-27 00:32:41.795 +00:00 [INF] HTTP GET /health responded 200 in 0.0834 ms
+2026-10-27 00:32:41.809 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3401 ms
+2026-10-27 00:32:41.811 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.6777 ms
+2026-10-27 00:43:55.330 +00:00 [INF] HTTP GET /health responded 200 in 0.0774 ms
+2026-10-27 00:43:55.344 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4973 ms
+2026-10-27 00:43:55.346 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7127 ms
+2026-10-27 00:44:44.798 +00:00 [DBG] Reading message.
+2026-10-27 00:44:44.799 +00:00 [DBG] Sending message.
+2026-10-27 00:44:44.799 +00:00 [DBG] Reading message.
+2026-10-27 00:44:44.836 +00:00 [DBG] Sending message.
+2026-10-27 00:44:44.836 +00:00 [DBG] Reading message.
+2026-10-27 00:44:44.842 +00:00 [DBG] Sending message.
+2026-10-27 00:44:44.842 +00:00 [INF] Receiver durably stored 812BD26B0707D95F2E8B65BB7B116E58FBD57E67D9ECD1F0A64B6D9B8E92B763; registration is pending.
+2026-10-27 00:44:44.842 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 44.6160 ms
+2026-10-27 00:45:19.196 +00:00 [INF] HTTP GET /health responded 200 in 0.0706 ms
+2026-10-27 00:45:19.209 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2908 ms
+2026-10-27 00:45:19.211 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8952 ms
+2026-10-27 00:46:22.342 +00:00 [INF] HTTP GET /health responded 200 in 0.0718 ms
+2026-10-27 00:46:22.356 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3087 ms
+2026-10-27 00:46:22.358 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7207 ms
+2026-10-27 00:46:44.765 +00:00 [DBG] Reading message.
+2026-10-27 00:46:44.766 +00:00 [DBG] Sending message.
+2026-10-27 00:46:44.766 +00:00 [DBG] Reading message.
+2026-10-27 00:46:44.802 +00:00 [DBG] Sending message.
+2026-10-27 00:46:44.802 +00:00 [DBG] Reading message.
+2026-10-27 00:46:44.808 +00:00 [DBG] Sending message.
+2026-10-27 00:46:44.808 +00:00 [INF] Receiver durably stored 6418A3E6065119AB06C7958E38BE4CFBD420E08DF39772CACFEA3B317AB8D124; registration is pending.
+2026-10-27 00:46:44.808 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 43.8847 ms
+2026-10-27 00:47:19.175 +00:00 [INF] HTTP GET /health responded 200 in 0.0868 ms
+2026-10-27 00:47:19.188 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3359 ms
+2026-10-27 00:47:19.190 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8276 ms
+2026-10-27 00:48:09.055 +00:00 [INF] HTTP GET /health responded 200 in 0.0799 ms
+2026-10-27 00:48:09.069 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3095 ms
+2026-10-27 00:48:09.071 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7431 ms
+2026-10-27 00:48:44.793 +00:00 [DBG] Reading message.
+2026-10-27 00:48:44.794 +00:00 [DBG] Sending message.
+2026-10-27 00:48:44.794 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 1.3352 ms
+2026-10-27 00:49:44.777 +00:00 [DBG] Reading message.
+2026-10-27 00:49:44.778 +00:00 [DBG] Sending message.
+2026-10-27 00:49:44.778 +00:00 [DBG] Reading message.
+2026-10-27 00:49:44.843 +00:00 [DBG] Sending message.
+2026-10-27 00:49:44.844 +00:00 [DBG] Reading message.
+2026-10-27 00:49:44.895 +00:00 [DBG] Sending message.
+2026-10-27 00:49:44.895 +00:00 [DBG] Reading message.
+2026-10-27 00:49:44.926 +00:00 [DBG] Sending message.
+2026-10-27 00:49:44.926 +00:00 [DBG] Reading message.
+2026-10-27 00:49:44.934 +00:00 [DBG] Sending message.
+2026-10-27 00:49:44.934 +00:00 [INF] Receiver durably stored 2C81461844D4F73F5CA29662B3CBA06CBA6F4B28D077042206639442FBA018B0; registration is pending.
+2026-10-27 00:49:44.934 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 157.3347 ms
+2026-10-27 00:51:00.358 +00:00 [INF] HTTP GET /health responded 200 in 0.0584 ms
+2026-10-27 00:51:00.371 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2924 ms
+2026-10-27 00:51:00.373 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7204 ms
+2026-10-27 00:52:20.743 +00:00 [INF] HTTP GET /health responded 200 in 0.0595 ms
+2026-10-27 00:52:20.756 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2983 ms
+2026-10-27 00:52:20.758 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.6821 ms
+2026-10-27 00:52:44.806 +00:00 [DBG] Reading message.
+2026-10-27 00:52:44.806 +00:00 [DBG] Sending message.
+2026-10-27 00:52:44.806 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 0.6597 ms
+2026-10-27 00:53:44.785 +00:00 [DBG] Reading message.
+2026-10-27 00:53:44.787 +00:00 [DBG] Sending message.
+2026-10-27 00:53:44.787 +00:00 [DBG] Reading message.
+2026-10-27 00:53:44.850 +00:00 [DBG] Sending message.
+2026-10-27 00:53:44.850 +00:00 [DBG] Reading message.
+2026-10-27 00:53:44.904 +00:00 [DBG] Sending message.
+2026-10-27 00:53:44.904 +00:00 [DBG] Reading message.
+2026-10-27 00:53:44.935 +00:00 [DBG] Sending message.
+2026-10-27 00:53:44.935 +00:00 [DBG] Reading message.
+2026-10-27 00:53:44.942 +00:00 [DBG] Sending message.
+2026-10-27 00:53:44.942 +00:00 [INF] Receiver durably stored 0A0FDB786141310247E5B8A3722276DC40F33E347E0F3DA6724037E4042ECCDC; registration is pending.
+2026-10-27 00:53:44.942 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 157.1969 ms
+2026-10-27 00:54:10.781 +00:00 [INF] HTTP GET /health responded 200 in 0.0602 ms
+2026-10-27 00:54:10.794 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2684 ms
+2026-10-27 00:54:10.796 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9807 ms
+2026-10-27 00:55:04.447 +00:00 [INF] HTTP GET /health responded 200 in 0.0682 ms
+2026-10-27 00:55:04.460 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2962 ms
+2026-10-27 00:55:04.462 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8816 ms
+2026-10-27 00:55:44.794 +00:00 [DBG] Reading message.
+2026-10-27 00:55:44.795 +00:00 [DBG] Sending message.
+2026-10-27 00:55:44.796 +00:00 [DBG] Reading message.
+2026-10-27 00:55:44.844 +00:00 [DBG] Sending message.
+2026-10-27 00:55:44.844 +00:00 [DBG] Reading message.
+2026-10-27 00:55:44.894 +00:00 [DBG] Sending message.
+2026-10-27 00:55:44.894 +00:00 [DBG] Reading message.
+2026-10-27 00:55:44.924 +00:00 [DBG] Sending message.
+2026-10-27 00:55:44.924 +00:00 [DBG] Reading message.
+2026-10-27 00:55:44.930 +00:00 [DBG] Sending message.
+2026-10-27 00:55:44.930 +00:00 [INF] Receiver durably stored 2818B4D6FCC138AD258681F947C8BF3DF4E1601AF5DFC651DE683016CEF60822; registration is pending.
+2026-10-27 00:55:44.930 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 136.2174 ms
+2026-10-27 00:55:54.195 +00:00 [WRN] File registration for 2818B4D6FCC138AD258681F947C8BF3DF4E1601AF5DFC651DE683016CEF60822 will retry at "2026-10-27T00:56:04.1939672+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 00:56:05.389 +00:00 [WRN] File registration for 2818B4D6FCC138AD258681F947C8BF3DF4E1601AF5DFC651DE683016CEF60822 will retry at "2026-10-27T00:56:25.3887753+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 00:56:36.526 +00:00 [WRN] File registration for 2818B4D6FCC138AD258681F947C8BF3DF4E1601AF5DFC651DE683016CEF60822 will retry at "2026-10-27T00:57:16.5246143+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 00:56:42.967 +00:00 [INF] HTTP GET /health responded 200 in 0.0642 ms
+2026-10-27 00:56:42.980 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2930 ms
+2026-10-27 00:56:42.982 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7245 ms
+2026-10-27 00:57:17.683 +00:00 [WRN] File registration for 2818B4D6FCC138AD258681F947C8BF3DF4E1601AF5DFC651DE683016CEF60822 will retry at "2026-10-27T00:58:37.6823198+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 00:58:01.225 +00:00 [INF] HTTP GET /health responded 200 in 0.0624 ms
+2026-10-27 00:58:01.238 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2792 ms
+2026-10-27 00:58:01.240 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.6983 ms
+2026-10-27 00:58:38.906 +00:00 [WRN] File registration for 2818B4D6FCC138AD258681F947C8BF3DF4E1601AF5DFC651DE683016CEF60822 will retry at "2026-10-27T01:01:18.9051777+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 00:58:44.802 +00:00 [DBG] Reading message.
+2026-10-27 00:58:44.803 +00:00 [DBG] Sending message.
+2026-10-27 00:58:44.803 +00:00 [DBG] Reading message.
+2026-10-27 00:58:44.854 +00:00 [DBG] Sending message.
+2026-10-27 00:58:44.854 +00:00 [DBG] Reading message.
+2026-10-27 00:58:44.918 +00:00 [DBG] Sending message.
+2026-10-27 00:58:44.918 +00:00 [DBG] Reading message.
+2026-10-27 00:58:44.960 +00:00 [DBG] Sending message.
+2026-10-27 00:58:44.960 +00:00 [DBG] Reading message.
+2026-10-27 00:58:45.005 +00:00 [DBG] Sending message.
+2026-10-27 00:58:45.005 +00:00 [DBG] Reading message.
+2026-10-27 00:58:45.045 +00:00 [DBG] Sending message.
+2026-10-27 00:58:45.046 +00:00 [DBG] Reading message.
+2026-10-27 00:58:45.052 +00:00 [DBG] Sending message.
+2026-10-27 00:58:45.052 +00:00 [INF] Receiver durably stored FBCF6E0C39A3E88183FF74DD148C1AC2AF71BF3E38C915F540118B401855A6E2; registration is pending.
+2026-10-27 00:58:45.052 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 250.6801 ms
+2026-10-27 00:58:50.292 +00:00 [WRN] File registration for FBCF6E0C39A3E88183FF74DD148C1AC2AF71BF3E38C915F540118B401855A6E2 will retry at "2026-10-27T00:59:00.2914105+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 00:59:11.649 +00:00 [WRN] File registration for FBCF6E0C39A3E88183FF74DD148C1AC2AF71BF3E38C915F540118B401855A6E2 will retry at "2026-10-27T00:59:31.6481647+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 00:59:17.874 +00:00 [INF] HTTP GET /health responded 200 in 0.0881 ms
+2026-10-27 00:59:17.887 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3152 ms
+2026-10-27 00:59:17.890 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8696 ms
+2026-10-27 00:59:33.033 +00:00 [WRN] File registration for FBCF6E0C39A3E88183FF74DD148C1AC2AF71BF3E38C915F540118B401855A6E2 will retry at "2026-10-27T01:00:13.0323363+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:00:24.399 +00:00 [WRN] File registration for FBCF6E0C39A3E88183FF74DD148C1AC2AF71BF3E38C915F540118B401855A6E2 will retry at "2026-10-27T01:01:44.3981420+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:00:43.585 +00:00 [INF] HTTP GET /health responded 200 in 0.0617 ms
+2026-10-27 01:00:43.599 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2724 ms
+2026-10-27 01:00:43.601 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.6845 ms
+2026-10-27 01:01:25.789 +00:00 [ERR] File registration for 2818B4D6FCC138AD258681F947C8BF3DF4E1601AF5DFC651DE683016CEF60822 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 01:01:44.810 +00:00 [DBG] Reading message.
+2026-10-27 01:01:44.812 +00:00 [DBG] Sending message.
+2026-10-27 01:01:44.812 +00:00 [DBG] Reading message.
+2026-10-27 01:01:44.861 +00:00 [DBG] Sending message.
+2026-10-27 01:01:44.861 +00:00 [DBG] Reading message.
+2026-10-27 01:01:44.909 +00:00 [DBG] Sending message.
+2026-10-27 01:01:44.909 +00:00 [DBG] Reading message.
+2026-10-27 01:01:44.953 +00:00 [DBG] Sending message.
+2026-10-27 01:01:44.953 +00:00 [DBG] Reading message.
+2026-10-27 01:01:44.996 +00:00 [DBG] Sending message.
+2026-10-27 01:01:44.996 +00:00 [DBG] Reading message.
+2026-10-27 01:01:45.033 +00:00 [DBG] Sending message.
+2026-10-27 01:01:45.033 +00:00 [DBG] Reading message.
+2026-10-27 01:01:45.040 +00:00 [DBG] Sending message.
+2026-10-27 01:01:45.040 +00:00 [INF] Receiver durably stored D79B38696F4C859D5CD003A75EE7594A97AF9E64AAF0B4F1728ACDC1134031D8; registration is pending.
+2026-10-27 01:01:45.040 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 229.9410 ms
+2026-10-27 01:01:47.148 +00:00 [WRN] File registration for FBCF6E0C39A3E88183FF74DD148C1AC2AF71BF3E38C915F540118B401855A6E2 will retry at "2026-10-27T01:04:27.1475524+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:01:48.725 +00:00 [WRN] File registration for D79B38696F4C859D5CD003A75EE7594A97AF9E64AAF0B4F1728ACDC1134031D8 will retry at "2026-10-27T01:01:58.7241212+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:02:10.287 +00:00 [WRN] File registration for D79B38696F4C859D5CD003A75EE7594A97AF9E64AAF0B4F1728ACDC1134031D8 will retry at "2026-10-27T01:02:30.2861486+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:02:23.331 +00:00 [INF] HTTP GET /health responded 200 in 0.0592 ms
+2026-10-27 01:02:23.344 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2869 ms
+2026-10-27 01:02:23.346 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7269 ms
+2026-10-27 01:02:41.808 +00:00 [WRN] File registration for D79B38696F4C859D5CD003A75EE7594A97AF9E64AAF0B4F1728ACDC1134031D8 will retry at "2026-10-27T01:03:21.8074795+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:03:23.423 +00:00 [WRN] File registration for D79B38696F4C859D5CD003A75EE7594A97AF9E64AAF0B4F1728ACDC1134031D8 will retry at "2026-10-27T01:04:43.4227601+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:03:43.215 +00:00 [INF] HTTP GET /health responded 200 in 0.0587 ms
+2026-10-27 01:03:43.229 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2802 ms
+2026-10-27 01:03:43.231 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.6916 ms
+2026-10-27 01:04:35.078 +00:00 [ERR] File registration for FBCF6E0C39A3E88183FF74DD148C1AC2AF71BF3E38C915F540118B401855A6E2 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 01:04:44.826 +00:00 [DBG] Reading message.
+2026-10-27 01:04:44.828 +00:00 [DBG] Sending message.
+2026-10-27 01:04:44.828 +00:00 [DBG] Reading message.
+2026-10-27 01:04:44.880 +00:00 [DBG] Sending message.
+2026-10-27 01:04:44.881 +00:00 [DBG] Reading message.
+2026-10-27 01:04:44.929 +00:00 [DBG] Sending message.
+2026-10-27 01:04:44.929 +00:00 [DBG] Reading message.
+2026-10-27 01:04:44.967 +00:00 [DBG] Sending message.
+2026-10-27 01:04:44.967 +00:00 [DBG] Reading message.
+2026-10-27 01:04:45.007 +00:00 [DBG] Sending message.
+2026-10-27 01:04:45.007 +00:00 [DBG] Reading message.
+2026-10-27 01:04:45.041 +00:00 [DBG] Sending message.
+2026-10-27 01:04:45.041 +00:00 [DBG] Reading message.
+2026-10-27 01:04:45.046 +00:00 [DBG] Sending message.
+2026-10-27 01:04:45.046 +00:00 [INF] Receiver durably stored 1A7109C6E6583ECC95209183F5BD8FD6A8F00ABD012DBCBE7145FBA5F2DD69DA; registration is pending.
+2026-10-27 01:04:45.046 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 220.2064 ms
+2026-10-27 01:04:46.610 +00:00 [WRN] File registration for D79B38696F4C859D5CD003A75EE7594A97AF9E64AAF0B4F1728ACDC1134031D8 will retry at "2026-10-27T01:07:26.6094573+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:04:48.339 +00:00 [WRN] File registration for 1A7109C6E6583ECC95209183F5BD8FD6A8F00ABD012DBCBE7145FBA5F2DD69DA will retry at "2026-10-27T01:04:58.3388658+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:05:10.189 +00:00 [WRN] File registration for 1A7109C6E6583ECC95209183F5BD8FD6A8F00ABD012DBCBE7145FBA5F2DD69DA will retry at "2026-10-27T01:05:30.1880176+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:05:29.229 +00:00 [INF] HTTP GET /health responded 200 in 0.0613 ms
+2026-10-27 01:05:29.243 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2931 ms
+2026-10-27 01:05:29.245 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7516 ms
+2026-10-27 01:05:31.944 +00:00 [WRN] File registration for 1A7109C6E6583ECC95209183F5BD8FD6A8F00ABD012DBCBE7145FBA5F2DD69DA will retry at "2026-10-27T01:06:11.9431321+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:06:13.720 +00:00 [WRN] File registration for 1A7109C6E6583ECC95209183F5BD8FD6A8F00ABD012DBCBE7145FBA5F2DD69DA will retry at "2026-10-27T01:07:33.7193472+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:06:40.531 +00:00 [INF] HTTP GET /health responded 200 in 0.0663 ms
+2026-10-27 01:06:40.544 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2809 ms
+2026-10-27 01:06:40.547 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8434 ms
+2026-10-27 01:07:35.497 +00:00 [ERR] File registration for D79B38696F4C859D5CD003A75EE7594A97AF9E64AAF0B4F1728ACDC1134031D8 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 01:07:37.334 +00:00 [WRN] File registration for 1A7109C6E6583ECC95209183F5BD8FD6A8F00ABD012DBCBE7145FBA5F2DD69DA will retry at "2026-10-27T01:10:17.3332229+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 01:07:44.798 +00:00 [DBG] Reading message.
+2026-10-27 01:07:44.801 +00:00 [DBG] Sending message.
+2026-10-27 01:07:44.801 +00:00 [DBG] Reading message.
+2026-10-27 01:07:44.820 +00:00 [DBG] Sending message.
+2026-10-27 01:07:44.820 +00:00 [DBG] Reading message.
+2026-10-27 01:07:44.827 +00:00 [DBG] Sending message.
+2026-10-27 01:07:44.827 +00:00 [INF] Receiver durably stored 813B0CFECD2790B1E12A5927CA1E2ED01E31B20C851FE1F4240140B0A27A46A9; registration is pending.
+2026-10-27 01:07:44.828 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 29.1125 ms
+2026-10-27 01:09:06.699 +00:00 [INF] HTTP GET /health responded 200 in 0.0631 ms
+2026-10-27 01:09:06.712 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3988 ms
+2026-10-27 01:09:06.714 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8313 ms
+2026-10-27 01:10:02.831 +00:00 [INF] HTTP GET /health responded 200 in 0.0607 ms
+2026-10-27 01:10:02.845 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2941 ms
+2026-10-27 01:10:02.847 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8343 ms
+2026-10-27 01:10:19.219 +00:00 [ERR] File registration for 1A7109C6E6583ECC95209183F5BD8FD6A8F00ABD012DBCBE7145FBA5F2DD69DA failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 01:10:44.822 +00:00 [DBG] Reading message.
+2026-10-27 01:10:44.824 +00:00 [DBG] Sending message.
+2026-10-27 01:10:44.824 +00:00 [DBG] Reading message.
+2026-10-27 01:10:44.981 +00:00 [DBG] Sending message.
+2026-10-27 01:10:44.981 +00:00 [DBG] Reading message.
+2026-10-27 01:10:44.990 +00:00 [DBG] Sending message.
+2026-10-27 01:10:44.991 +00:00 [INF] Receiver durably stored 898D7DD7C4DD933FF4D051BBB6FF6AC23ABE5916D02E45D93968A4B53B9C20CC; registration is pending.
+2026-10-27 01:10:44.991 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 168.6757 ms
+2026-10-27 01:11:30.643 +00:00 [INF] HTTP GET /health responded 200 in 0.0570 ms
+2026-10-27 01:11:30.657 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2743 ms
+2026-10-27 01:11:30.659 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.6890 ms
+2026-10-27 01:12:28.464 +00:00 [INF] HTTP GET /health responded 200 in 0.0572 ms
+2026-10-27 01:12:28.478 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2958 ms
+2026-10-27 01:12:28.480 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7190 ms
+2026-10-27 01:12:44.787 +00:00 [DBG] Reading message.
+2026-10-27 01:12:44.789 +00:00 [DBG] Sending message.
+2026-10-27 01:12:44.789 +00:00 [DBG] Reading message.
+2026-10-27 01:12:44.808 +00:00 [DBG] Sending message.
+2026-10-27 01:12:44.808 +00:00 [DBG] Reading message.
+2026-10-27 01:12:44.816 +00:00 [DBG] Sending message.
+2026-10-27 01:12:44.816 +00:00 [INF] Receiver durably stored 1F25E224FE6D3EBD75F80AB88A4EC383C6E56C0FB6458E54158578F9E4D63DC3; registration is pending.
+2026-10-27 01:12:44.816 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 28.8893 ms
+2026-10-27 01:13:35.204 +00:00 [INF] HTTP GET /health responded 200 in 0.0623 ms
+2026-10-27 01:13:35.218 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3046 ms
+2026-10-27 01:13:35.220 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7778 ms
+2026-10-27 01:13:41.384 +00:00 [INF] HTTP GET /health responded 200 in 0.0581 ms
+2026-10-27 01:13:41.397 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2971 ms
+2026-10-27 01:13:41.399 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.6879 ms
+2026-10-27 01:18:13.885 +00:00 [INF] HTTP GET /health responded 200 in 0.0561 ms
+2026-10-27 01:18:13.899 +00:00 [INF] HTTP GET /api/status responded 200 in 0.5511 ms
+2026-10-27 01:18:13.901 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7000 ms
+2026-10-27 01:19:44.820 +00:00 [DBG] Reading message.
+2026-10-27 01:19:44.821 +00:00 [DBG] Sending message.
+2026-10-27 01:19:44.821 +00:00 [DBG] Reading message.
+2026-10-27 01:19:44.858 +00:00 [DBG] Sending message.
+2026-10-27 01:19:44.858 +00:00 [DBG] Reading message.
+2026-10-27 01:19:44.865 +00:00 [DBG] Sending message.
+2026-10-27 01:19:44.865 +00:00 [INF] Receiver durably stored A9CEE87F7CD371B999C30A88F45A96DCE043CF8B5EA3E4918E46D24A695BE6B0; registration is pending.
+2026-10-27 01:19:44.865 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 45.6008 ms
+2026-10-27 01:20:37.699 +00:00 [INF] HTTP GET /health responded 200 in 0.0843 ms
+2026-10-27 01:20:37.713 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3535 ms
+2026-10-27 01:20:37.715 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7619 ms
+2026-10-27 01:21:30.669 +00:00 [INF] HTTP GET /health responded 200 in 0.0705 ms
+2026-10-27 01:21:30.683 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2962 ms
+2026-10-27 01:21:30.685 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9526 ms
+2026-10-27 01:21:44.797 +00:00 [DBG] Reading message.
+2026-10-27 01:21:44.798 +00:00 [DBG] Sending message.
+2026-10-27 01:21:44.798 +00:00 [DBG] Reading message.
+2026-10-27 01:21:44.843 +00:00 [DBG] Sending message.
+2026-10-27 01:21:44.843 +00:00 [DBG] Reading message.
+2026-10-27 01:21:44.851 +00:00 [DBG] Sending message.
+2026-10-27 01:21:44.851 +00:00 [INF] Receiver durably stored 9E727B2B5750A88968A33F88B20FEE0E0A6066449AA6F991CCBADE764BBEE802; registration is pending.
+2026-10-27 01:21:44.851 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 54.6793 ms
+2026-10-27 01:22:42.702 +00:00 [INF] HTTP GET /health responded 200 in 0.0597 ms
+2026-10-27 01:22:42.717 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2855 ms
+2026-10-27 01:22:42.719 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7122 ms
+2026-10-27 01:23:31.682 +00:00 [INF] HTTP GET /health responded 200 in 0.0705 ms
+2026-10-27 01:23:31.695 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3091 ms
+2026-10-27 01:23:31.697 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7129 ms
+2026-10-27 01:23:44.795 +00:00 [DBG] Reading message.
+2026-10-27 01:23:44.796 +00:00 [DBG] Sending message.
+2026-10-27 01:23:44.797 +00:00 [DBG] Reading message.
+2026-10-27 01:23:44.828 +00:00 [DBG] Sending message.
+2026-10-27 01:23:44.828 +00:00 [DBG] Reading message.
+2026-10-27 01:23:44.834 +00:00 [DBG] Sending message.
+2026-10-27 01:23:44.834 +00:00 [INF] Receiver durably stored 553CF99C3865FAC4B55AE33168AE5D658E113C501E83B46BAAEFC8608CCBAA62; registration is pending.
+2026-10-27 01:23:44.834 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 38.9506 ms
+2026-10-27 01:24:02.889 +00:00 [INF] HTTP GET /health responded 200 in 0.0828 ms
+2026-10-27 01:24:02.903 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3695 ms
+2026-10-27 01:24:02.905 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7457 ms
+2026-10-27 01:25:43.598 +00:00 [INF] HTTP GET /health responded 200 in 0.0578 ms
+2026-10-27 01:25:43.611 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2828 ms
+2026-10-27 01:25:43.613 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8203 ms
+2026-10-27 01:26:44.864 +00:00 [DBG] Reading message.
+2026-10-27 01:26:44.865 +00:00 [DBG] Sending message.
+2026-10-27 01:26:44.865 +00:00 [DBG] Reading message.
+2026-10-27 01:26:45.048 +00:00 [DBG] Sending message.
+2026-10-27 01:26:45.048 +00:00 [DBG] Reading message.
+2026-10-27 01:26:45.073 +00:00 [DBG] Sending message.
+2026-10-27 01:26:45.073 +00:00 [DBG] Reading message.
+2026-10-27 01:26:45.079 +00:00 [DBG] Sending message.
+2026-10-27 01:26:45.079 +00:00 [INF] Receiver durably stored 8112DFE326774DD5563A034FB88F47D4E88AF4035EDBDA3AFADD3A64C6AAED10; registration is pending.
+2026-10-27 01:26:45.079 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 215.6610 ms
+2026-10-27 01:28:01.865 +00:00 [INF] HTTP GET /health responded 200 in 0.0858 ms
+2026-10-27 01:28:01.879 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3731 ms
+2026-10-27 01:28:01.881 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9244 ms
+2026-10-27 01:28:49.048 +00:00 [INF] HTTP GET /health responded 200 in 0.0598 ms
+2026-10-27 01:28:49.061 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2908 ms
+2026-10-27 01:28:49.063 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7262 ms
+2026-10-27 01:29:44.837 +00:00 [DBG] Reading message.
+2026-10-27 01:29:44.840 +00:00 [DBG] Sending message.
+2026-10-27 01:29:44.840 +00:00 [DBG] Reading message.
+2026-10-27 01:29:44.884 +00:00 [DBG] Sending message.
+2026-10-27 01:29:44.884 +00:00 [DBG] Reading message.
+2026-10-27 01:29:44.908 +00:00 [DBG] Sending message.
+2026-10-27 01:29:44.908 +00:00 [DBG] Reading message.
+2026-10-27 01:29:44.916 +00:00 [DBG] Sending message.
+2026-10-27 01:29:44.916 +00:00 [INF] Receiver durably stored 0B1C4659970862E16C871938D664F6729E347D77C45EAE58C692CC9E7D868758; registration is pending.
+2026-10-27 01:29:44.916 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 78.6870 ms
+2026-10-27 01:32:46.883 +00:00 [INF] HTTP GET /health responded 200 in 0.0777 ms
+2026-10-27 01:32:46.897 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3168 ms
+2026-10-27 01:32:46.899 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8095 ms
+2026-10-27 01:33:38.804 +00:00 [INF] HTTP GET /health responded 200 in 0.0835 ms
+2026-10-27 01:33:38.817 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2972 ms
+2026-10-27 01:33:38.819 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8115 ms
+2026-10-27 01:34:44.823 +00:00 [DBG] Reading message.
+2026-10-27 01:34:44.824 +00:00 [DBG] Sending message.
+2026-10-27 01:34:44.824 +00:00 [DBG] Reading message.
+2026-10-27 01:34:44.865 +00:00 [DBG] Sending message.
+2026-10-27 01:34:44.865 +00:00 [DBG] Reading message.
+2026-10-27 01:34:44.889 +00:00 [DBG] Sending message.
+2026-10-27 01:34:44.889 +00:00 [DBG] Reading message.
+2026-10-27 01:34:44.897 +00:00 [DBG] Sending message.
+2026-10-27 01:34:44.897 +00:00 [INF] Receiver durably stored C35A8A337F49C6ED8634A616503BCDB1B3E2921642F8397986012C3C8137A48A; registration is pending.
+2026-10-27 01:34:44.897 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 74.3198 ms
+2026-10-27 01:35:43.224 +00:00 [INF] HTTP GET /health responded 200 in 0.0573 ms
+2026-10-27 01:35:43.238 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2675 ms
+2026-10-27 01:35:43.240 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7568 ms
+2026-10-27 01:36:28.359 +00:00 [INF] HTTP GET /health responded 200 in 0.0664 ms
+2026-10-27 01:36:28.372 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2883 ms
+2026-10-27 01:36:28.374 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8017 ms
+2026-10-27 01:37:44.859 +00:00 [DBG] Reading message.
+2026-10-27 01:37:44.860 +00:00 [DBG] Sending message.
+2026-10-27 01:37:44.861 +00:00 [DBG] Reading message.
+2026-10-27 01:37:44.884 +00:00 [DBG] Sending message.
+2026-10-27 01:37:44.884 +00:00 [DBG] Reading message.
+2026-10-27 01:37:44.890 +00:00 [DBG] Sending message.
+2026-10-27 01:37:44.890 +00:00 [INF] Receiver durably stored 4A51030854E1F1A02A3CF1302539B7E872D92C2BA4ABD5E4C8F6CCE9082D7044; registration is pending.
+2026-10-27 01:37:44.890 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 31.0321 ms
+2026-10-27 01:37:48.784 +00:00 [ERR] File registration for 4A51030854E1F1A02A3CF1302539B7E872D92C2BA4ABD5E4C8F6CCE9082D7044 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:38:27.432 +00:00 [INF] HTTP GET /health responded 200 in 0.0835 ms
+2026-10-27 01:38:27.445 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2809 ms
+2026-10-27 01:38:27.447 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7596 ms
+2026-10-27 01:39:09.610 +00:00 [INF] HTTP GET /health responded 200 in 0.0713 ms
+2026-10-27 01:39:09.623 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3031 ms
+2026-10-27 01:39:09.625 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8855 ms
+2026-10-27 01:39:44.821 +00:00 [DBG] Reading message.
+2026-10-27 01:39:44.822 +00:00 [DBG] Sending message.
+2026-10-27 01:39:44.822 +00:00 [DBG] Reading message.
+2026-10-27 01:39:44.844 +00:00 [DBG] Sending message.
+2026-10-27 01:39:44.844 +00:00 [DBG] Reading message.
+2026-10-27 01:39:44.851 +00:00 [DBG] Sending message.
+2026-10-27 01:39:44.851 +00:00 [INF] Receiver durably stored D75E0C548E56FC8C28F6DE8BB4016576E63795B88D8D71587DA8E04EA29B1C76; registration is pending.
+2026-10-27 01:39:44.851 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 30.4679 ms
+2026-10-27 01:39:48.830 +00:00 [ERR] File registration for D75E0C548E56FC8C28F6DE8BB4016576E63795B88D8D71587DA8E04EA29B1C76 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:40:20.453 +00:00 [INF] HTTP GET /health responded 200 in 0.0743 ms
+2026-10-27 01:40:20.467 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2957 ms
+2026-10-27 01:40:20.469 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7774 ms
+2026-10-27 01:41:02.348 +00:00 [INF] HTTP GET /health responded 200 in 0.0573 ms
+2026-10-27 01:41:02.362 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2991 ms
+2026-10-27 01:41:02.364 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8057 ms
+2026-10-27 01:41:44.810 +00:00 [DBG] Reading message.
+2026-10-27 01:41:44.813 +00:00 [DBG] Sending message.
+2026-10-27 01:41:44.813 +00:00 [DBG] Reading message.
+2026-10-27 01:41:44.834 +00:00 [DBG] Sending message.
+2026-10-27 01:41:44.834 +00:00 [DBG] Reading message.
+2026-10-27 01:41:44.840 +00:00 [DBG] Sending message.
+2026-10-27 01:41:44.840 +00:00 [INF] Receiver durably stored CCA78526F706978036698A902E2D4E37A089668EF9EA34513FE6F9B3BB12BFD8; registration is pending.
+2026-10-27 01:41:44.840 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 29.9596 ms
+2026-10-27 01:41:48.875 +00:00 [ERR] File registration for CCA78526F706978036698A902E2D4E37A089668EF9EA34513FE6F9B3BB12BFD8 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:43:06.890 +00:00 [INF] HTTP GET /health responded 200 in 0.0597 ms
+2026-10-27 01:43:06.903 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2919 ms
+2026-10-27 01:43:06.905 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7833 ms
+2026-10-27 01:43:48.177 +00:00 [INF] HTTP GET /health responded 200 in 0.0697 ms
+2026-10-27 01:43:48.190 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3034 ms
+2026-10-27 01:43:48.192 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8477 ms
+2026-10-27 01:44:44.843 +00:00 [DBG] Reading message.
+2026-10-27 01:44:44.845 +00:00 [DBG] Sending message.
+2026-10-27 01:44:44.845 +00:00 [DBG] Reading message.
+2026-10-27 01:44:44.868 +00:00 [DBG] Sending message.
+2026-10-27 01:44:44.868 +00:00 [DBG] Reading message.
+2026-10-27 01:44:44.874 +00:00 [DBG] Sending message.
+2026-10-27 01:44:44.875 +00:00 [INF] Receiver durably stored C56105ACA5E853C8733925C4991BE8BE675FF0D627493FD205ADCCBE39A53220; registration is pending.
+2026-10-27 01:44:44.875 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 31.7279 ms
+2026-10-27 01:44:48.931 +00:00 [ERR] File registration for C56105ACA5E853C8733925C4991BE8BE675FF0D627493FD205ADCCBE39A53220 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:45:11.288 +00:00 [INF] HTTP GET /health responded 200 in 0.0742 ms
+2026-10-27 01:45:11.301 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3007 ms
+2026-10-27 01:45:11.303 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7759 ms
+2026-10-27 01:47:42.429 +00:00 [INF] HTTP GET /health responded 200 in 0.0553 ms
+2026-10-27 01:47:42.442 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2683 ms
+2026-10-27 01:47:42.444 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8527 ms
+2026-10-27 01:48:44.841 +00:00 [DBG] Reading message.
+2026-10-27 01:48:44.843 +00:00 [DBG] Sending message.
+2026-10-27 01:48:44.843 +00:00 [DBG] Reading message.
+2026-10-27 01:48:44.866 +00:00 [DBG] Sending message.
+2026-10-27 01:48:44.866 +00:00 [DBG] Reading message.
+2026-10-27 01:48:44.872 +00:00 [DBG] Sending message.
+2026-10-27 01:48:44.873 +00:00 [INF] Receiver durably stored C3BD9C9CDBA6E7DAA8C9D7381FF4BEFE6BAE5011CACF6CF2E8B14BA74E8EFAD4; registration is pending.
+2026-10-27 01:48:44.873 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 32.1606 ms
+2026-10-27 01:48:49.047 +00:00 [ERR] File registration for C3BD9C9CDBA6E7DAA8C9D7381FF4BEFE6BAE5011CACF6CF2E8B14BA74E8EFAD4 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:49:30.403 +00:00 [INF] HTTP GET /health responded 200 in 0.0858 ms
+2026-10-27 01:49:30.416 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3595 ms
+2026-10-27 01:49:30.418 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8419 ms
+2026-10-27 01:51:21.586 +00:00 [INF] HTTP GET /health responded 200 in 0.0682 ms
+2026-10-27 01:51:21.599 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2942 ms
+2026-10-27 01:51:21.601 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8133 ms
+2026-10-27 01:51:44.850 +00:00 [DBG] Reading message.
+2026-10-27 01:51:44.851 +00:00 [DBG] Sending message.
+2026-10-27 01:51:44.851 +00:00 [DBG] Reading message.
+2026-10-27 01:51:44.874 +00:00 [DBG] Sending message.
+2026-10-27 01:51:44.874 +00:00 [DBG] Reading message.
+2026-10-27 01:51:44.879 +00:00 [DBG] Sending message.
+2026-10-27 01:51:44.879 +00:00 [INF] Receiver durably stored FCBAFB552830FEAC993C3FE923CB8522857848CD09ED99A6EDAA9025AE87B071; registration is pending.
+2026-10-27 01:51:44.880 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 29.5612 ms
+2026-10-27 01:51:49.124 +00:00 [ERR] File registration for FCBAFB552830FEAC993C3FE923CB8522857848CD09ED99A6EDAA9025AE87B071 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:52:23.036 +00:00 [INF] HTTP GET /health responded 200 in 0.0622 ms
+2026-10-27 01:52:23.050 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2874 ms
+2026-10-27 01:52:23.052 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7779 ms
+2026-10-27 01:52:58.351 +00:00 [INF] HTTP GET /health responded 200 in 0.0598 ms
+2026-10-27 01:52:58.364 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3137 ms
+2026-10-27 01:52:58.366 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.7909 ms
+2026-10-27 01:53:44.831 +00:00 [DBG] Reading message.
+2026-10-27 01:53:44.833 +00:00 [DBG] Sending message.
+2026-10-27 01:53:44.833 +00:00 [DBG] Reading message.
+2026-10-27 01:53:44.886 +00:00 [DBG] Sending message.
+2026-10-27 01:53:44.886 +00:00 [DBG] Reading message.
+2026-10-27 01:53:44.894 +00:00 [DBG] Sending message.
+2026-10-27 01:53:44.894 +00:00 [INF] Receiver durably stored 3477EDC5A8E27F824BEACABE9CC35564220FFA21EC065AC34EF37E19A54DC7A8; registration is pending.
+2026-10-27 01:53:44.894 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 62.8838 ms
+2026-10-27 01:53:49.177 +00:00 [ERR] File registration for 3477EDC5A8E27F824BEACABE9CC35564220FFA21EC065AC34EF37E19A54DC7A8 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:54:29.498 +00:00 [INF] HTTP GET /health responded 200 in 0.0668 ms
+2026-10-27 01:54:29.512 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2862 ms
+2026-10-27 01:54:29.514 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8744 ms
+2026-10-27 01:55:41.142 +00:00 [INF] HTTP GET /health responded 200 in 0.0776 ms
+2026-10-27 01:55:41.156 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2991 ms
+2026-10-27 01:55:41.158 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8629 ms
+2026-10-27 01:56:44.855 +00:00 [DBG] Reading message.
+2026-10-27 01:56:44.857 +00:00 [DBG] Sending message.
+2026-10-27 01:56:44.857 +00:00 [DBG] Reading message.
+2026-10-27 01:56:44.899 +00:00 [DBG] Sending message.
+2026-10-27 01:56:44.899 +00:00 [DBG] Reading message.
+2026-10-27 01:56:44.905 +00:00 [DBG] Sending message.
+2026-10-27 01:56:44.905 +00:00 [INF] Receiver durably stored 9926CC3EAA5F8EF299995CEF54179D4295B6AA338AF1837767B822DECCBBB392; registration is pending.
+2026-10-27 01:56:44.905 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 50.2830 ms
+2026-10-27 01:56:49.260 +00:00 [ERR] File registration for 9926CC3EAA5F8EF299995CEF54179D4295B6AA338AF1837767B822DECCBBB392 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:57:37.677 +00:00 [INF] HTTP GET /health responded 200 in 0.0969 ms
+2026-10-27 01:57:37.690 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3384 ms
+2026-10-27 01:57:37.692 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8008 ms
+2026-10-27 01:58:13.792 +00:00 [INF] HTTP GET /health responded 200 in 0.0997 ms
+2026-10-27 01:58:13.807 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3224 ms
+2026-10-27 01:58:13.809 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9652 ms
+2026-10-27 01:58:44.831 +00:00 [DBG] Reading message.
+2026-10-27 01:58:44.833 +00:00 [DBG] Sending message.
+2026-10-27 01:58:44.834 +00:00 [DBG] Reading message.
+2026-10-27 01:58:44.872 +00:00 [DBG] Sending message.
+2026-10-27 01:58:44.872 +00:00 [DBG] Reading message.
+2026-10-27 01:58:44.879 +00:00 [DBG] Sending message.
+2026-10-27 01:58:44.879 +00:00 [INF] Receiver durably stored 320B53F692B1C2C15C7F701CAEB497FAA960C759C040F77E68BEB9CC2C9EBEEE; registration is pending.
+2026-10-27 01:58:44.879 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 48.3743 ms
+2026-10-27 01:58:49.313 +00:00 [ERR] File registration for 320B53F692B1C2C15C7F701CAEB497FAA960C759C040F77E68BEB9CC2C9EBEEE failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 01:59:20.903 +00:00 [INF] HTTP GET /health responded 200 in 0.0605 ms
+2026-10-27 01:59:20.916 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3021 ms
+2026-10-27 01:59:20.918 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8217 ms
+2026-10-27 02:00:09.182 +00:00 [INF] HTTP GET /health responded 200 in 0.0836 ms
+2026-10-27 02:00:09.195 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3003 ms
+2026-10-27 02:00:09.197 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8412 ms
+2026-10-27 02:00:44.830 +00:00 [DBG] Reading message.
+2026-10-27 02:00:44.832 +00:00 [DBG] Sending message.
+2026-10-27 02:00:44.832 +00:00 [DBG] Reading message.
+2026-10-27 02:00:44.861 +00:00 [DBG] Sending message.
+2026-10-27 02:00:44.861 +00:00 [DBG] Reading message.
+2026-10-27 02:00:44.867 +00:00 [DBG] Sending message.
+2026-10-27 02:00:44.867 +00:00 [INF] Receiver durably stored 3C522069CD0049089DD02836C634B658649FBA1B29940B18D97A97E7DB9C6447; registration is pending.
+2026-10-27 02:00:44.867 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 37.2418 ms
+2026-10-27 02:00:44.879 +00:00 [DBG] Reading message.
+2026-10-27 02:00:44.880 +00:00 [DBG] Sending message.
+2026-10-27 02:00:44.881 +00:00 [DBG] Reading message.
+2026-10-27 02:00:44.897 +00:00 [DBG] Sending message.
+2026-10-27 02:00:44.897 +00:00 [DBG] Reading message.
+2026-10-27 02:00:44.906 +00:00 [DBG] Sending message.
+2026-10-27 02:00:44.907 +00:00 [INF] Receiver durably stored 8C4DEC3FE2FF46702F45A6D027D7480EC5CA721D3F1C5BB448E1219A566ABB6A; registration is pending.
+2026-10-27 02:00:44.907 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 27.8828 ms
+2026-10-27 02:01:55.164 +00:00 [INF] HTTP GET /health responded 200 in 0.0628 ms
+2026-10-27 02:01:55.179 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4000 ms
+2026-10-27 02:01:55.181 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8516 ms
+2026-10-27 02:02:42.097 +00:00 [INF] HTTP GET /health responded 200 in 0.0779 ms
+2026-10-27 02:02:42.112 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3235 ms
+2026-10-27 02:02:42.115 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8696 ms
+2026-10-27 02:03:44.846 +00:00 [DBG] Reading message.
+2026-10-27 02:03:44.847 +00:00 [DBG] Sending message.
+2026-10-27 02:03:44.847 +00:00 [DBG] Reading message.
+2026-10-27 02:03:44.897 +00:00 [DBG] Sending message.
+2026-10-27 02:03:44.897 +00:00 [DBG] Reading message.
+2026-10-27 02:03:44.947 +00:00 [DBG] Sending message.
+2026-10-27 02:03:44.947 +00:00 [DBG] Reading message.
+2026-10-27 02:03:44.976 +00:00 [DBG] Sending message.
+2026-10-27 02:03:44.976 +00:00 [DBG] Reading message.
+2026-10-27 02:03:44.982 +00:00 [DBG] Sending message.
+2026-10-27 02:03:44.982 +00:00 [INF] Receiver durably stored EEAF69DD75347DDBCAE85CA1E1C8A05EC8A3CB70D6AD1844CD65B29CFE81BC0C; registration is pending.
+2026-10-27 02:03:44.982 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 136.3312 ms
+2026-10-27 02:03:44.992 +00:00 [DBG] Reading message.
+2026-10-27 02:03:44.994 +00:00 [DBG] Sending message.
+2026-10-27 02:03:44.994 +00:00 [DBG] Reading message.
+2026-10-27 02:03:45.023 +00:00 [DBG] Sending message.
+2026-10-27 02:03:45.023 +00:00 [DBG] Reading message.
+2026-10-27 02:03:45.028 +00:00 [DBG] Sending message.
+2026-10-27 02:03:45.028 +00:00 [INF] Receiver durably stored 67A05FE6EB6A558E2A8386F84DA64E06326831D11646576E7F7438ADA5E7E87F; registration is pending.
+2026-10-27 02:03:45.028 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 36.2763 ms
+2026-10-27 02:03:51.490 +00:00 [WRN] File registration for EEAF69DD75347DDBCAE85CA1E1C8A05EC8A3CB70D6AD1844CD65B29CFE81BC0C will retry at "2026-10-27T02:04:01.4897073+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:04:05.420 +00:00 [WRN] File registration for EEAF69DD75347DDBCAE85CA1E1C8A05EC8A3CB70D6AD1844CD65B29CFE81BC0C will retry at "2026-10-27T02:04:25.4195134+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:04:26.559 +00:00 [WRN] File registration for EEAF69DD75347DDBCAE85CA1E1C8A05EC8A3CB70D6AD1844CD65B29CFE81BC0C will retry at "2026-10-27T02:05:06.5548630+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:04:36.715 +00:00 [INF] HTTP GET /health responded 200 in 0.0643 ms
+2026-10-27 02:04:36.729 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2939 ms
+2026-10-27 02:04:36.731 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8219 ms
+2026-10-27 02:05:07.733 +00:00 [WRN] File registration for EEAF69DD75347DDBCAE85CA1E1C8A05EC8A3CB70D6AD1844CD65B29CFE81BC0C will retry at "2026-10-27T02:06:27.7325794+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:05:19.951 +00:00 [INF] HTTP GET /health responded 200 in 0.0667 ms
+2026-10-27 02:05:19.964 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3146 ms
+2026-10-27 02:05:19.967 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2237 ms
+2026-10-27 02:05:44.830 +00:00 [DBG] Reading message.
+2026-10-27 02:05:44.832 +00:00 [DBG] Sending message.
+2026-10-27 02:05:44.832 +00:00 [DBG] Reading message.
+2026-10-27 02:05:44.881 +00:00 [DBG] Sending message.
+2026-10-27 02:05:44.881 +00:00 [DBG] Reading message.
+2026-10-27 02:05:44.932 +00:00 [DBG] Sending message.
+2026-10-27 02:05:44.932 +00:00 [DBG] Reading message.
+2026-10-27 02:05:44.974 +00:00 [DBG] Sending message.
+2026-10-27 02:05:44.974 +00:00 [DBG] Reading message.
+2026-10-27 02:05:45.014 +00:00 [DBG] Sending message.
+2026-10-27 02:05:45.014 +00:00 [DBG] Reading message.
+2026-10-27 02:05:45.052 +00:00 [DBG] Sending message.
+2026-10-27 02:05:45.052 +00:00 [DBG] Reading message.
+2026-10-27 02:05:45.058 +00:00 [DBG] Sending message.
+2026-10-27 02:05:45.058 +00:00 [INF] Receiver durably stored 2A3DC94CFE6F33217AEB4A9CA87ED314E103C3F2AE90D200B7EF77D3C098906A; registration is pending.
+2026-10-27 02:05:45.058 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 228.7553 ms
+2026-10-27 02:05:45.077 +00:00 [DBG] Reading message.
+2026-10-27 02:05:45.079 +00:00 [DBG] Sending message.
+2026-10-27 02:05:45.079 +00:00 [DBG] Reading message.
+2026-10-27 02:05:45.117 +00:00 [DBG] Sending message.
+2026-10-27 02:05:45.117 +00:00 [DBG] Reading message.
+2026-10-27 02:05:45.153 +00:00 [DBG] Sending message.
+2026-10-27 02:05:45.153 +00:00 [DBG] Reading message.
+2026-10-27 02:05:45.160 +00:00 [DBG] Sending message.
+2026-10-27 02:05:45.160 +00:00 [INF] Receiver durably stored 6B7127A8A4F244552A1584CC9E5A093D75828B0247BAE39A7B8518573982F26D; registration is pending.
+2026-10-27 02:05:45.160 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 82.4414 ms
+2026-10-27 02:05:49.059 +00:00 [WRN] File registration for 2A3DC94CFE6F33217AEB4A9CA87ED314E103C3F2AE90D200B7EF77D3C098906A will retry at "2026-10-27T02:05:59.0577126+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:06:07.429 +00:00 [WRN] File registration for 2A3DC94CFE6F33217AEB4A9CA87ED314E103C3F2AE90D200B7EF77D3C098906A will retry at "2026-10-27T02:06:27.4279546+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:06:25.253 +00:00 [INF] HTTP GET /health responded 200 in 0.0635 ms
+2026-10-27 02:06:25.266 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2873 ms
+2026-10-27 02:06:25.268 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8598 ms
+2026-10-27 02:06:28.833 +00:00 [WRN] File registration for 2A3DC94CFE6F33217AEB4A9CA87ED314E103C3F2AE90D200B7EF77D3C098906A will retry at "2026-10-27T02:07:08.8318944+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:06:40.191 +00:00 [WRN] File registration for EEAF69DD75347DDBCAE85CA1E1C8A05EC8A3CB70D6AD1844CD65B29CFE81BC0C will retry at "2026-10-27T02:09:20.1896750+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:07:11.583 +00:00 [WRN] File registration for 2A3DC94CFE6F33217AEB4A9CA87ED314E103C3F2AE90D200B7EF77D3C098906A will retry at "2026-10-27T02:08:31.5825297+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:07:53.559 +00:00 [INF] HTTP GET /health responded 200 in 0.0606 ms
+2026-10-27 02:07:53.572 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3046 ms
+2026-10-27 02:07:53.575 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0018 ms
+2026-10-27 02:08:33.006 +00:00 [WRN] File registration for 2A3DC94CFE6F33217AEB4A9CA87ED314E103C3F2AE90D200B7EF77D3C098906A will retry at "2026-10-27T02:11:13.0049980+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:08:44.905 +00:00 [DBG] Reading message.
+2026-10-27 02:08:44.906 +00:00 [DBG] Sending message.
+2026-10-27 02:08:44.907 +00:00 [DBG] Reading message.
+2026-10-27 02:08:44.936 +00:00 [DBG] Sending message.
+2026-10-27 02:08:44.936 +00:00 [DBG] Reading message.
+2026-10-27 02:08:44.943 +00:00 [DBG] Sending message.
+2026-10-27 02:08:44.943 +00:00 [INF] Receiver durably stored 6468B131B88A3831867EAA7FAA22122FA2449A302DCBBE3CA033D05F70AADE13; registration is pending.
+2026-10-27 02:08:44.943 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 37.6055 ms
+2026-10-27 02:08:44.956 +00:00 [DBG] Reading message.
+2026-10-27 02:08:44.957 +00:00 [DBG] Sending message.
+2026-10-27 02:08:44.957 +00:00 [DBG] Reading message.
+2026-10-27 02:08:44.972 +00:00 [DBG] Sending message.
+2026-10-27 02:08:44.972 +00:00 [DBG] Reading message.
+2026-10-27 02:08:44.977 +00:00 [DBG] Sending message.
+2026-10-27 02:08:44.977 +00:00 [INF] Receiver durably stored 72C92A8872765118DD7BC99F959C4D83DEAE8C9E3CCEC52C99D6CA3D9C3F7C6E; registration is pending.
+2026-10-27 02:08:44.977 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 21.3197 ms
+2026-10-27 02:08:53.866 +00:00 [WRN] File registration for 6468B131B88A3831867EAA7FAA22122FA2449A302DCBBE3CA033D05F70AADE13 will retry at "2026-10-27T02:09:03.8650900+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:09:04.700 +00:00 [WRN] File registration for 6468B131B88A3831867EAA7FAA22122FA2449A302DCBBE3CA033D05F70AADE13 will retry at "2026-10-27T02:09:24.6993597+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:09:26.212 +00:00 [ERR] File registration for EEAF69DD75347DDBCAE85CA1E1C8A05EC8A3CB70D6AD1844CD65B29CFE81BC0C failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:09:37.077 +00:00 [WRN] File registration for 6468B131B88A3831867EAA7FAA22122FA2449A302DCBBE3CA033D05F70AADE13 will retry at "2026-10-27T02:10:17.0769679+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:10:03.465 +00:00 [INF] HTTP GET /health responded 200 in 0.0609 ms
+2026-10-27 02:10:03.479 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3865 ms
+2026-10-27 02:10:03.481 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8589 ms
+2026-10-27 02:10:17.962 +00:00 [WRN] File registration for 6468B131B88A3831867EAA7FAA22122FA2449A302DCBBE3CA033D05F70AADE13 will retry at "2026-10-27T02:11:37.9610275+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:11:19.396 +00:00 [ERR] File registration for 2A3DC94CFE6F33217AEB4A9CA87ED314E103C3F2AE90D200B7EF77D3C098906A failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:11:40.212 +00:00 [WRN] File registration for 6468B131B88A3831867EAA7FAA22122FA2449A302DCBBE3CA033D05F70AADE13 will retry at "2026-10-27T02:14:20.2108715+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:14:21.106 +00:00 [ERR] File registration for 6468B131B88A3831867EAA7FAA22122FA2449A302DCBBE3CA033D05F70AADE13 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:20:37.530 +00:00 [INF] HTTP GET /health responded 200 in 0.0587 ms
+2026-10-27 02:20:37.544 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4770 ms
+2026-10-27 02:20:37.546 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9202 ms
+2026-10-27 02:21:44.871 +00:00 [DBG] Reading message.
+2026-10-27 02:21:44.872 +00:00 [DBG] Sending message.
+2026-10-27 02:21:44.872 +00:00 [DBG] Reading message.
+2026-10-27 02:21:44.921 +00:00 [DBG] Sending message.
+2026-10-27 02:21:44.921 +00:00 [DBG] Reading message.
+2026-10-27 02:21:44.972 +00:00 [DBG] Sending message.
+2026-10-27 02:21:44.972 +00:00 [DBG] Reading message.
+2026-10-27 02:21:45.002 +00:00 [DBG] Sending message.
+2026-10-27 02:21:45.002 +00:00 [DBG] Reading message.
+2026-10-27 02:21:45.010 +00:00 [DBG] Sending message.
+2026-10-27 02:21:45.010 +00:00 [INF] Receiver durably stored 09E28075DA7D89A0761A29D32257D23829883AA996A75AF4FA282100D2881053; registration is pending.
+2026-10-27 02:21:45.010 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 138.9210 ms
+2026-10-27 02:21:45.021 +00:00 [DBG] Reading message.
+2026-10-27 02:21:45.022 +00:00 [DBG] Sending message.
+2026-10-27 02:21:45.022 +00:00 [DBG] Reading message.
+2026-10-27 02:21:45.051 +00:00 [DBG] Sending message.
+2026-10-27 02:21:45.051 +00:00 [DBG] Reading message.
+2026-10-27 02:21:45.058 +00:00 [DBG] Sending message.
+2026-10-27 02:21:45.058 +00:00 [INF] Receiver durably stored 02A67D657726E87963BB7F81D802049C5CAEF2C97B31D761CA71855D897C748F; registration is pending.
+2026-10-27 02:21:45.058 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 36.6935 ms
+2026-10-27 02:21:52.630 +00:00 [WRN] File registration for 09E28075DA7D89A0761A29D32257D23829883AA996A75AF4FA282100D2881053 will retry at "2026-10-27T02:22:02.6294857+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:22:07.105 +00:00 [WRN] File registration for 09E28075DA7D89A0761A29D32257D23829883AA996A75AF4FA282100D2881053 will retry at "2026-10-27T02:22:27.1047375+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:22:28.511 +00:00 [WRN] File registration for 09E28075DA7D89A0761A29D32257D23829883AA996A75AF4FA282100D2881053 will retry at "2026-10-27T02:23:08.5106751+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:22:56.563 +00:00 [INF] HTTP GET /health responded 200 in 0.0644 ms
+2026-10-27 02:22:56.576 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3213 ms
+2026-10-27 02:22:56.579 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9736 ms
+2026-10-27 02:23:09.946 +00:00 [WRN] File registration for 09E28075DA7D89A0761A29D32257D23829883AA996A75AF4FA282100D2881053 will retry at "2026-10-27T02:24:29.9450488+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:24:02.518 +00:00 [INF] HTTP GET /health responded 200 in 0.0620 ms
+2026-10-27 02:24:02.531 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2969 ms
+2026-10-27 02:24:02.533 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9023 ms
+2026-10-27 02:24:31.448 +00:00 [WRN] File registration for 09E28075DA7D89A0761A29D32257D23829883AA996A75AF4FA282100D2881053 will retry at "2026-10-27T02:27:11.4477524+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:24:44.862 +00:00 [DBG] Reading message.
+2026-10-27 02:24:44.864 +00:00 [DBG] Sending message.
+2026-10-27 02:24:44.864 +00:00 [DBG] Reading message.
+2026-10-27 02:24:44.911 +00:00 [DBG] Sending message.
+2026-10-27 02:24:44.911 +00:00 [DBG] Reading message.
+2026-10-27 02:24:44.958 +00:00 [DBG] Sending message.
+2026-10-27 02:24:44.958 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.001 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.001 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.041 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.041 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.076 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.076 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.082 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.082 +00:00 [INF] Receiver durably stored 49E77BD3724CB7F0577429951D86D639FE5C16B561FCBE7E48B9F4A2605F401C; registration is pending.
+2026-10-27 02:24:45.082 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 220.4076 ms
+2026-10-27 02:24:45.096 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.097 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.097 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.134 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.134 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.158 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.158 +00:00 [DBG] Reading message.
+2026-10-27 02:24:45.167 +00:00 [DBG] Sending message.
+2026-10-27 02:24:45.167 +00:00 [INF] Receiver durably stored 8DB1B584C95FD83089729D2854F7E1764E17868439052F7769BAFD56B2120E04; registration is pending.
+2026-10-27 02:24:45.167 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 70.6629 ms
+2026-10-27 02:24:53.111 +00:00 [WRN] File registration for 49E77BD3724CB7F0577429951D86D639FE5C16B561FCBE7E48B9F4A2605F401C will retry at "2026-10-27T02:25:03.1105801+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:25:11.652 +00:00 [WRN] File registration for 49E77BD3724CB7F0577429951D86D639FE5C16B561FCBE7E48B9F4A2605F401C will retry at "2026-10-27T02:25:31.6502230+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:25:33.181 +00:00 [WRN] File registration for 49E77BD3724CB7F0577429951D86D639FE5C16B561FCBE7E48B9F4A2605F401C will retry at "2026-10-27T02:26:13.1804589+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:25:49.871 +00:00 [INF] HTTP GET /health responded 200 in 0.0874 ms
+2026-10-27 02:25:49.885 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4073 ms
+2026-10-27 02:25:49.887 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0329 ms
+2026-10-27 02:26:14.715 +00:00 [WRN] File registration for 49E77BD3724CB7F0577429951D86D639FE5C16B561FCBE7E48B9F4A2605F401C will retry at "2026-10-27T02:27:34.7140471+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:27:16.314 +00:00 [ERR] File registration for 09E28075DA7D89A0761A29D32257D23829883AA996A75AF4FA282100D2881053 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:27:20.764 +00:00 [INF] HTTP GET /health responded 200 in 0.0641 ms
+2026-10-27 02:27:20.777 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3000 ms
+2026-10-27 02:27:20.780 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0883 ms
+2026-10-27 02:27:37.876 +00:00 [WRN] File registration for 49E77BD3724CB7F0577429951D86D639FE5C16B561FCBE7E48B9F4A2605F401C will retry at "2026-10-27T02:30:17.8757868+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:27:44.866 +00:00 [DBG] Reading message.
+2026-10-27 02:27:44.867 +00:00 [DBG] Sending message.
+2026-10-27 02:27:44.867 +00:00 [DBG] Reading message.
+2026-10-27 02:27:44.904 +00:00 [DBG] Sending message.
+2026-10-27 02:27:44.904 +00:00 [DBG] Reading message.
+2026-10-27 02:27:44.912 +00:00 [DBG] Sending message.
+2026-10-27 02:27:44.912 +00:00 [INF] Receiver durably stored 30F100686C59896814DF35F04874BD40D6E6D08F2F8BBE0B39B90355617A18C7; registration is pending.
+2026-10-27 02:27:44.912 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 46.1105 ms
+2026-10-27 02:27:44.925 +00:00 [DBG] Reading message.
+2026-10-27 02:27:44.927 +00:00 [DBG] Sending message.
+2026-10-27 02:27:44.927 +00:00 [DBG] Reading message.
+2026-10-27 02:27:44.944 +00:00 [DBG] Sending message.
+2026-10-27 02:27:44.944 +00:00 [DBG] Reading message.
+2026-10-27 02:27:44.951 +00:00 [DBG] Sending message.
+2026-10-27 02:27:44.951 +00:00 [INF] Receiver durably stored 156005C956B846B8D072A0273D690CC68745F3F09CE0D7E2E05E5F37CB840F2D; registration is pending.
+2026-10-27 02:27:44.951 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 26.5197 ms
+2026-10-27 02:27:48.846 +00:00 [WRN] File registration for 30F100686C59896814DF35F04874BD40D6E6D08F2F8BBE0B39B90355617A18C7 will retry at "2026-10-27T02:27:58.8452730+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:27:59.825 +00:00 [WRN] File registration for 30F100686C59896814DF35F04874BD40D6E6D08F2F8BBE0B39B90355617A18C7 will retry at "2026-10-27T02:28:19.8241593+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:28:20.817 +00:00 [WRN] File registration for 30F100686C59896814DF35F04874BD40D6E6D08F2F8BBE0B39B90355617A18C7 will retry at "2026-10-27T02:29:00.8161282+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:28:40.648 +00:00 [INF] HTTP GET /health responded 200 in 0.0630 ms
+2026-10-27 02:28:40.661 +00:00 [INF] HTTP GET /api/status responded 200 in 0.2922 ms
+2026-10-27 02:28:40.663 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.8786 ms
+2026-10-27 02:29:01.833 +00:00 [WRN] File registration for 30F100686C59896814DF35F04874BD40D6E6D08F2F8BBE0B39B90355617A18C7 will retry at "2026-10-27T02:30:21.8316833+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:29:48.931 +00:00 [INF] HTTP GET /health responded 200 in 0.0611 ms
+2026-10-27 02:29:48.944 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3474 ms
+2026-10-27 02:29:48.946 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9288 ms
+2026-10-27 02:30:23.530 +00:00 [ERR] File registration for 49E77BD3724CB7F0577429951D86D639FE5C16B561FCBE7E48B9F4A2605F401C failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:30:24.530 +00:00 [WRN] File registration for 30F100686C59896814DF35F04874BD40D6E6D08F2F8BBE0B39B90355617A18C7 will retry at "2026-10-27T02:33:04.5294976+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:30:44.873 +00:00 [DBG] Reading message.
+2026-10-27 02:30:44.875 +00:00 [DBG] Sending message.
+2026-10-27 02:30:44.875 +00:00 [DBG] Reading message.
+2026-10-27 02:30:45.214 +00:00 [DBG] Sending message.
+2026-10-27 02:30:45.214 +00:00 [DBG] Reading message.
+2026-10-27 02:30:45.266 +00:00 [DBG] Sending message.
+2026-10-27 02:30:45.266 +00:00 [DBG] Reading message.
+2026-10-27 02:30:45.302 +00:00 [DBG] Sending message.
+2026-10-27 02:30:45.302 +00:00 [DBG] Reading message.
+2026-10-27 02:30:45.309 +00:00 [DBG] Sending message.
+2026-10-27 02:30:45.310 +00:00 [INF] Receiver durably stored 432636FD772C774BF51F1431DB1EC2A56007B6DED3286B3389944B7366010E2D; registration is pending.
+2026-10-27 02:30:45.310 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 436.8003 ms
+2026-10-27 02:30:45.322 +00:00 [DBG] Reading message.
+2026-10-27 02:30:45.323 +00:00 [DBG] Sending message.
+2026-10-27 02:30:45.323 +00:00 [DBG] Reading message.
+2026-10-27 02:30:45.368 +00:00 [DBG] Sending message.
+2026-10-27 02:30:45.369 +00:00 [DBG] Reading message.
+2026-10-27 02:30:45.377 +00:00 [DBG] Sending message.
+2026-10-27 02:30:45.377 +00:00 [INF] Receiver durably stored DBF358357B511010E0911FE9362182316E1DA172CB48B9411DCB86B3C5B1A9B3; registration is pending.
+2026-10-27 02:30:45.377 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 54.7889 ms
+2026-10-27 02:30:55.957 +00:00 [WRN] File registration for 432636FD772C774BF51F1431DB1EC2A56007B6DED3286B3389944B7366010E2D will retry at "2026-10-27T02:31:05.9561804+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:31:10.336 +00:00 [WRN] File registration for 432636FD772C774BF51F1431DB1EC2A56007B6DED3286B3389944B7366010E2D will retry at "2026-10-27T02:31:30.3351969+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:31:31.840 +00:00 [WRN] File registration for 432636FD772C774BF51F1431DB1EC2A56007B6DED3286B3389944B7366010E2D will retry at "2026-10-27T02:32:11.8389984+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:32:13.207 +00:00 [WRN] File registration for 432636FD772C774BF51F1431DB1EC2A56007B6DED3286B3389944B7366010E2D will retry at "2026-10-27T02:33:33.2060805+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:32:26.413 +00:00 [INF] HTTP GET /health responded 200 in 0.0896 ms
+2026-10-27 02:32:26.426 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3718 ms
+2026-10-27 02:32:26.429 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0130 ms
+2026-10-27 02:33:14.217 +00:00 [ERR] File registration for 30F100686C59896814DF35F04874BD40D6E6D08F2F8BBE0B39B90355617A18C7 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:33:24.928 +00:00 [INF] HTTP GET /health responded 200 in 0.0853 ms
+2026-10-27 02:33:24.942 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3065 ms
+2026-10-27 02:33:24.945 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1041 ms
+2026-10-27 02:33:35.584 +00:00 [WRN] File registration for 432636FD772C774BF51F1431DB1EC2A56007B6DED3286B3389944B7366010E2D will retry at "2026-10-27T02:36:15.5833126+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:33:44.899 +00:00 [DBG] Reading message.
+2026-10-27 02:33:44.899 +00:00 [DBG] Sending message.
+2026-10-27 02:33:44.900 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 0.8014 ms
+2026-10-27 02:33:44.909 +00:00 [DBG] Reading message.
+2026-10-27 02:33:44.911 +00:00 [DBG] Sending message.
+2026-10-27 02:33:44.911 +00:00 [DBG] Reading message.
+2026-10-27 02:33:44.951 +00:00 [DBG] Sending message.
+2026-10-27 02:33:44.951 +00:00 [DBG] Reading message.
+2026-10-27 02:33:44.974 +00:00 [DBG] Sending message.
+2026-10-27 02:33:44.975 +00:00 [DBG] Reading message.
+2026-10-27 02:33:44.982 +00:00 [DBG] Sending message.
+2026-10-27 02:33:44.982 +00:00 [INF] Receiver durably stored DFC0E3127948A1556272B09BF2E6CFB7BB83706CAE3525E7C9E8E20A8D1CE2E2; registration is pending.
+2026-10-27 02:33:44.982 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 72.6648 ms
+2026-10-27 02:35:44.867 +00:00 [DBG] Reading message.
+2026-10-27 02:35:44.868 +00:00 [DBG] Sending message.
+2026-10-27 02:35:44.868 +00:00 [DBG] Reading message.
+2026-10-27 02:35:44.923 +00:00 [DBG] Sending message.
+2026-10-27 02:35:44.923 +00:00 [DBG] Reading message.
+2026-10-27 02:35:44.970 +00:00 [DBG] Sending message.
+2026-10-27 02:35:44.970 +00:00 [DBG] Reading message.
+2026-10-27 02:35:45.009 +00:00 [DBG] Sending message.
+2026-10-27 02:35:45.009 +00:00 [DBG] Reading message.
+2026-10-27 02:35:45.268 +00:00 [DBG] Sending message.
+2026-10-27 02:35:45.268 +00:00 [DBG] Reading message.
+2026-10-27 02:35:45.320 +00:00 [DBG] Sending message.
+2026-10-27 02:35:45.320 +00:00 [DBG] Reading message.
+2026-10-27 02:35:45.327 +00:00 [DBG] Sending message.
+2026-10-27 02:35:45.327 +00:00 [INF] Receiver durably stored 2D06AC67D0D8593A997630C98A453B7669EFF4D2F976790082F3EE05BB960804; registration is pending.
+2026-10-27 02:35:45.327 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 460.5816 ms
+2026-10-27 02:35:53.965 +00:00 [WRN] File registration for 2D06AC67D0D8593A997630C98A453B7669EFF4D2F976790082F3EE05BB960804 will retry at "2026-10-27T02:36:03.9640705+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:36:15.462 +00:00 [WRN] File registration for 2D06AC67D0D8593A997630C98A453B7669EFF4D2F976790082F3EE05BB960804 will retry at "2026-10-27T02:36:35.4616874+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:36:27.358 +00:00 [ERR] File registration for 432636FD772C774BF51F1431DB1EC2A56007B6DED3286B3389944B7366010E2D failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:36:37.737 +00:00 [INF] HTTP GET /health responded 200 in 0.0604 ms
+2026-10-27 02:36:37.750 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3076 ms
+2026-10-27 02:36:37.753 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9215 ms
+2026-10-27 02:36:39.090 +00:00 [WRN] File registration for 2D06AC67D0D8593A997630C98A453B7669EFF4D2F976790082F3EE05BB960804 will retry at "2026-10-27T02:37:19.0898016+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:37:20.779 +00:00 [WRN] File registration for 2D06AC67D0D8593A997630C98A453B7669EFF4D2F976790082F3EE05BB960804 will retry at "2026-10-27T02:38:40.7785244+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:38:52.371 +00:00 [WRN] File registration for 2D06AC67D0D8593A997630C98A453B7669EFF4D2F976790082F3EE05BB960804 will retry at "2026-10-27T02:41:32.3698073+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:41:33.996 +00:00 [ERR] File registration for 2D06AC67D0D8593A997630C98A453B7669EFF4D2F976790082F3EE05BB960804 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:44:54.737 +00:00 [INF] HTTP GET /health responded 200 in 0.0718 ms
+2026-10-27 02:44:54.751 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4828 ms
+2026-10-27 02:44:54.753 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9644 ms
+2026-10-27 02:45:44.903 +00:00 [DBG] Reading message.
+2026-10-27 02:45:44.904 +00:00 [DBG] Sending message.
+2026-10-27 02:45:44.905 +00:00 [DBG] Reading message.
+2026-10-27 02:45:44.939 +00:00 [DBG] Sending message.
+2026-10-27 02:45:44.939 +00:00 [DBG] Reading message.
+2026-10-27 02:45:44.946 +00:00 [DBG] Sending message.
+2026-10-27 02:45:44.946 +00:00 [INF] Receiver durably stored 3B90DBC3DB5EC500F3082FE2925363777B4C7395D80E13148FA1D77146CB4766; registration is pending.
+2026-10-27 02:45:44.946 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 43.2408 ms
+2026-10-27 02:45:44.958 +00:00 [DBG] Reading message.
+2026-10-27 02:45:44.960 +00:00 [DBG] Sending message.
+2026-10-27 02:45:44.960 +00:00 [DBG] Reading message.
+2026-10-27 02:45:44.979 +00:00 [DBG] Sending message.
+2026-10-27 02:45:44.979 +00:00 [DBG] Reading message.
+2026-10-27 02:45:44.986 +00:00 [DBG] Sending message.
+2026-10-27 02:45:44.986 +00:00 [INF] Receiver durably stored 247FD8657E892730F5452624A4ADC52ACF85445564EA5A3BEEE91078EFA2BD23; registration is pending.
+2026-10-27 02:45:44.986 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 27.9609 ms
+2026-10-27 02:45:55.144 +00:00 [WRN] File registration for 3B90DBC3DB5EC500F3082FE2925363777B4C7395D80E13148FA1D77146CB4766 will retry at "2026-10-27T02:46:05.1437003+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:45:55.158 +00:00 [ERR] File registration for 247FD8657E892730F5452624A4ADC52ACF85445564EA5A3BEEE91078EFA2BD23 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 02:46:06.141 +00:00 [WRN] File registration for 3B90DBC3DB5EC500F3082FE2925363777B4C7395D80E13148FA1D77146CB4766 will retry at "2026-10-27T02:46:26.1408689+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:46:37.108 +00:00 [WRN] File registration for 3B90DBC3DB5EC500F3082FE2925363777B4C7395D80E13148FA1D77146CB4766 will retry at "2026-10-27T02:47:17.1075159+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:47:18.105 +00:00 [WRN] File registration for 3B90DBC3DB5EC500F3082FE2925363777B4C7395D80E13148FA1D77146CB4766 will retry at "2026-10-27T02:48:38.1043887+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:47:21.912 +00:00 [INF] HTTP GET /health responded 200 in 0.0631 ms
+2026-10-27 02:47:21.925 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3174 ms
+2026-10-27 02:47:21.927 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1261 ms
+2026-10-27 02:48:15.423 +00:00 [INF] HTTP GET /health responded 200 in 0.0633 ms
+2026-10-27 02:48:15.436 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3132 ms
+2026-10-27 02:48:15.438 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9910 ms
+2026-10-27 02:48:39.174 +00:00 [WRN] File registration for 3B90DBC3DB5EC500F3082FE2925363777B4C7395D80E13148FA1D77146CB4766 will retry at "2026-10-27T02:51:19.1739247+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:48:44.887 +00:00 [DBG] Reading message.
+2026-10-27 02:48:44.889 +00:00 [DBG] Sending message.
+2026-10-27 02:48:44.889 +00:00 [DBG] Reading message.
+2026-10-27 02:48:44.939 +00:00 [DBG] Sending message.
+2026-10-27 02:48:44.939 +00:00 [DBG] Reading message.
+2026-10-27 02:48:44.993 +00:00 [DBG] Sending message.
+2026-10-27 02:48:44.993 +00:00 [DBG] Reading message.
+2026-10-27 02:48:45.021 +00:00 [DBG] Sending message.
+2026-10-27 02:48:45.021 +00:00 [DBG] Reading message.
+2026-10-27 02:48:45.027 +00:00 [DBG] Sending message.
+2026-10-27 02:48:45.027 +00:00 [INF] Receiver durably stored A3936319AD1879BC247A45B77727358D57EE3F9F75A5D8CB2517E5258DF3AA8A; registration is pending.
+2026-10-27 02:48:45.027 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 140.1765 ms
+2026-10-27 02:48:45.038 +00:00 [DBG] Reading message.
+2026-10-27 02:48:45.040 +00:00 [DBG] Sending message.
+2026-10-27 02:48:45.040 +00:00 [DBG] Reading message.
+2026-10-27 02:48:45.059 +00:00 [DBG] Sending message.
+2026-10-27 02:48:45.059 +00:00 [DBG] Reading message.
+2026-10-27 02:48:45.066 +00:00 [DBG] Sending message.
+2026-10-27 02:48:45.066 +00:00 [INF] Receiver durably stored 03CCF0BB75754783854A5A6EA1825740995B488E3E6D930BE3FBC2542D4CFEE8; registration is pending.
+2026-10-27 02:48:45.066 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 28.1276 ms
+2026-10-27 02:48:50.866 +00:00 [WRN] File registration for A3936319AD1879BC247A45B77727358D57EE3F9F75A5D8CB2517E5258DF3AA8A will retry at "2026-10-27T02:49:00.8655023+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:48:50.881 +00:00 [ERR] File registration for 03CCF0BB75754783854A5A6EA1825740995B488E3E6D930BE3FBC2542D4CFEE8 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 02:49:02.324 +00:00 [WRN] File registration for A3936319AD1879BC247A45B77727358D57EE3F9F75A5D8CB2517E5258DF3AA8A will retry at "2026-10-27T02:49:22.3237888+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:49:33.742 +00:00 [WRN] File registration for A3936319AD1879BC247A45B77727358D57EE3F9F75A5D8CB2517E5258DF3AA8A will retry at "2026-10-27T02:50:13.7410417+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:50:03.027 +00:00 [INF] HTTP GET /health responded 200 in 0.0833 ms
+2026-10-27 02:50:03.041 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3865 ms
+2026-10-27 02:50:03.043 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9266 ms
+2026-10-27 02:50:25.202 +00:00 [WRN] File registration for A3936319AD1879BC247A45B77727358D57EE3F9F75A5D8CB2517E5258DF3AA8A will retry at "2026-10-27T02:51:45.2018199+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:50:42.996 +00:00 [INF] HTTP GET /health responded 200 in 0.0644 ms
+2026-10-27 02:50:43.009 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3253 ms
+2026-10-27 02:50:43.011 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1171 ms
+2026-10-27 02:51:26.358 +00:00 [ERR] File registration for 3B90DBC3DB5EC500F3082FE2925363777B4C7395D80E13148FA1D77146CB4766 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:51:44.887 +00:00 [DBG] Reading message.
+2026-10-27 02:51:44.888 +00:00 [DBG] Sending message.
+2026-10-27 02:51:44.888 +00:00 [DBG] Reading message.
+2026-10-27 02:51:44.937 +00:00 [DBG] Sending message.
+2026-10-27 02:51:44.937 +00:00 [DBG] Reading message.
+2026-10-27 02:51:44.986 +00:00 [DBG] Sending message.
+2026-10-27 02:51:44.986 +00:00 [DBG] Reading message.
+2026-10-27 02:51:45.024 +00:00 [DBG] Sending message.
+2026-10-27 02:51:45.024 +00:00 [DBG] Reading message.
+2026-10-27 02:51:45.064 +00:00 [DBG] Sending message.
+2026-10-27 02:51:45.064 +00:00 [DBG] Reading message.
+2026-10-27 02:51:45.100 +00:00 [DBG] Sending message.
+2026-10-27 02:51:45.100 +00:00 [DBG] Reading message.
+2026-10-27 02:51:45.107 +00:00 [DBG] Sending message.
+2026-10-27 02:51:45.108 +00:00 [INF] Receiver durably stored D4BE22BFC7217D404018C97CF74276DDE9E6BF76025F930C6BE267AD602FB14A; registration is pending.
+2026-10-27 02:51:45.108 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 220.8467 ms
+2026-10-27 02:51:45.121 +00:00 [DBG] Reading message.
+2026-10-27 02:51:45.123 +00:00 [DBG] Sending message.
+2026-10-27 02:51:45.123 +00:00 [DBG] Reading message.
+2026-10-27 02:51:45.166 +00:00 [DBG] Sending message.
+2026-10-27 02:51:45.166 +00:00 [DBG] Reading message.
+2026-10-27 02:51:45.173 +00:00 [DBG] Sending message.
+2026-10-27 02:51:45.174 +00:00 [INF] Receiver durably stored 3B4E0C1532F521E790BE33C6E147FCE554126E7B1999E975408D905D5E48EDAF; registration is pending.
+2026-10-27 02:51:45.174 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 52.2642 ms
+2026-10-27 02:51:47.807 +00:00 [WRN] File registration for A3936319AD1879BC247A45B77727358D57EE3F9F75A5D8CB2517E5258DF3AA8A will retry at "2026-10-27T02:54:27.8067963+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:51:49.388 +00:00 [WRN] File registration for D4BE22BFC7217D404018C97CF74276DDE9E6BF76025F930C6BE267AD602FB14A will retry at "2026-10-27T02:51:59.3871152+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:51:49.402 +00:00 [ERR] File registration for 3B4E0C1532F521E790BE33C6E147FCE554126E7B1999E975408D905D5E48EDAF failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 02:52:00.964 +00:00 [WRN] File registration for D4BE22BFC7217D404018C97CF74276DDE9E6BF76025F930C6BE267AD602FB14A will retry at "2026-10-27T02:52:20.9634115+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:52:22.639 +00:00 [WRN] File registration for D4BE22BFC7217D404018C97CF74276DDE9E6BF76025F930C6BE267AD602FB14A will retry at "2026-10-27T02:53:02.6383188+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:52:48.731 +00:00 [INF] HTTP GET /health responded 200 in 0.0741 ms
+2026-10-27 02:52:48.745 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4160 ms
+2026-10-27 02:52:48.747 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9467 ms
+2026-10-27 02:53:04.718 +00:00 [WRN] File registration for D4BE22BFC7217D404018C97CF74276DDE9E6BF76025F930C6BE267AD602FB14A will retry at "2026-10-27T02:54:24.7176587+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:53:37.763 +00:00 [INF] HTTP GET /health responded 200 in 0.0564 ms
+2026-10-27 02:53:37.776 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3079 ms
+2026-10-27 02:53:37.779 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9086 ms
+2026-10-27 02:54:26.449 +00:00 [WRN] File registration for D4BE22BFC7217D404018C97CF74276DDE9E6BF76025F930C6BE267AD602FB14A will retry at "2026-10-27T02:57:06.4484021+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:54:38.125 +00:00 [ERR] File registration for A3936319AD1879BC247A45B77727358D57EE3F9F75A5D8CB2517E5258DF3AA8A failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:54:44.889 +00:00 [DBG] Reading message.
+2026-10-27 02:54:44.890 +00:00 [DBG] Sending message.
+2026-10-27 02:54:44.890 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 0.6338 ms
+2026-10-27 02:54:44.896 +00:00 [DBG] Reading message.
+2026-10-27 02:54:44.897 +00:00 [DBG] Sending message.
+2026-10-27 02:54:44.897 +00:00 [DBG] Reading message.
+2026-10-27 02:54:44.920 +00:00 [DBG] Sending message.
+2026-10-27 02:54:44.920 +00:00 [DBG] Reading message.
+2026-10-27 02:54:44.926 +00:00 [DBG] Sending message.
+2026-10-27 02:54:44.926 +00:00 [INF] Receiver durably stored C872A7F2BAE1F8EE795BF9D4D0E498C5F4D189A9650A3A845D1891912F44494D; registration is pending.
+2026-10-27 02:54:44.926 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 30.5390 ms
+2026-10-27 02:54:48.135 +00:00 [ERR] File registration for C872A7F2BAE1F8EE795BF9D4D0E498C5F4D189A9650A3A845D1891912F44494D failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 02:56:44.883 +00:00 [DBG] Reading message.
+2026-10-27 02:56:44.885 +00:00 [DBG] Sending message.
+2026-10-27 02:56:44.885 +00:00 [DBG] Reading message.
+2026-10-27 02:56:44.927 +00:00 [DBG] Sending message.
+2026-10-27 02:56:44.928 +00:00 [DBG] Reading message.
+2026-10-27 02:56:44.934 +00:00 [DBG] Sending message.
+2026-10-27 02:56:44.934 +00:00 [INF] Receiver durably stored A60E4B6ADFEB2957DC76B75643EA3E42CDC4F0F99FD061FADB75B4788522DB46; registration is pending.
+2026-10-27 02:56:44.934 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 50.9638 ms
+2026-10-27 02:56:49.249 +00:00 [WRN] File registration for A60E4B6ADFEB2957DC76B75643EA3E42CDC4F0F99FD061FADB75B4788522DB46 will retry at "2026-10-27T02:56:59.2490511+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:57:10.942 +00:00 [ERR] File registration for D4BE22BFC7217D404018C97CF74276DDE9E6BF76025F930C6BE267AD602FB14A failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 02:57:12.002 +00:00 [WRN] File registration for A60E4B6ADFEB2957DC76B75643EA3E42CDC4F0F99FD061FADB75B4788522DB46 will retry at "2026-10-27T02:57:32.0019481+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:57:43.082 +00:00 [WRN] File registration for A60E4B6ADFEB2957DC76B75643EA3E42CDC4F0F99FD061FADB75B4788522DB46 will retry at "2026-10-27T02:58:23.0812112+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:57:45.233 +00:00 [INF] HTTP GET /health responded 200 in 0.0608 ms
+2026-10-27 02:57:45.246 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4709 ms
+2026-10-27 02:57:45.249 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9226 ms
+2026-10-27 02:58:24.152 +00:00 [WRN] File registration for A60E4B6ADFEB2957DC76B75643EA3E42CDC4F0F99FD061FADB75B4788522DB46 will retry at "2026-10-27T02:59:44.1512358+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 02:59:55.252 +00:00 [WRN] File registration for A60E4B6ADFEB2957DC76B75643EA3E42CDC4F0F99FD061FADB75B4788522DB46 will retry at "2026-10-27T03:02:35.2520116+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 03:02:36.341 +00:00 [ERR] File registration for A60E4B6ADFEB2957DC76B75643EA3E42CDC4F0F99FD061FADB75B4788522DB46 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 04:07:49.308 +00:00 [INF] HTTP GET /health responded 200 in 0.0593 ms
+2026-10-27 04:07:49.351 +00:00 [INF] HTTP GET /api/status responded 200 in 0.6131 ms
+2026-10-27 04:07:49.353 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9885 ms
+2026-10-27 04:08:45.027 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.029 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.029 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.081 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.081 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.135 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.135 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.166 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.166 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.172 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.172 +00:00 [INF] Receiver durably stored 7DC2169D1CF0B0CB2F7229642D047882EC8E73A72269E78B9A23472464DE36E6; registration is pending.
+2026-10-27 04:08:45.172 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 145.0787 ms
+2026-10-27 04:08:45.184 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.185 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.186 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.207 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.207 +00:00 [DBG] Reading message.
+2026-10-27 04:08:45.212 +00:00 [DBG] Sending message.
+2026-10-27 04:08:45.212 +00:00 [INF] Receiver durably stored B0FE93BCD307BF355D52D0E0C228AB62C6F159BF76C44E855EE0525F8092A7B6; registration is pending.
+2026-10-27 04:08:45.212 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 27.9572 ms
+2026-10-27 04:08:48.888 +00:00 [WRN] File registration for 7DC2169D1CF0B0CB2F7229642D047882EC8E73A72269E78B9A23472464DE36E6 will retry at "2026-10-27T04:08:58.8875752+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:08:48.903 +00:00 [ERR] File registration for B0FE93BCD307BF355D52D0E0C228AB62C6F159BF76C44E855EE0525F8092A7B6 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:09:00.673 +00:00 [WRN] File registration for 7DC2169D1CF0B0CB2F7229642D047882EC8E73A72269E78B9A23472464DE36E6 will retry at "2026-10-27T04:09:20.6727927+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:09:22.357 +00:00 [WRN] File registration for 7DC2169D1CF0B0CB2F7229642D047882EC8E73A72269E78B9A23472464DE36E6 will retry at "2026-10-27T04:10:02.3559037+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:09:42.184 +00:00 [INF] HTTP GET /health responded 200 in 0.0605 ms
+2026-10-27 04:09:42.198 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3207 ms
+2026-10-27 04:09:42.200 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0037 ms
+2026-10-27 04:10:04.123 +00:00 [WRN] File registration for 7DC2169D1CF0B0CB2F7229642D047882EC8E73A72269E78B9A23472464DE36E6 will retry at "2026-10-27T04:11:24.1223185+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:10:28.307 +00:00 [INF] HTTP GET /health responded 200 in 0.0602 ms
+2026-10-27 04:10:28.321 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4078 ms
+2026-10-27 04:10:28.323 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9803 ms
+2026-10-27 04:10:44.935 +00:00 [DBG] Reading message.
+2026-10-27 04:10:44.936 +00:00 [DBG] Sending message.
+2026-10-27 04:10:44.936 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 0.8454 ms
+2026-10-27 04:10:44.946 +00:00 [DBG] Reading message.
+2026-10-27 04:10:44.948 +00:00 [DBG] Sending message.
+2026-10-27 04:10:44.948 +00:00 [DBG] Reading message.
+2026-10-27 04:10:44.988 +00:00 [DBG] Sending message.
+2026-10-27 04:10:44.988 +00:00 [DBG] Reading message.
+2026-10-27 04:10:44.993 +00:00 [DBG] Sending message.
+2026-10-27 04:10:44.993 +00:00 [INF] Receiver durably stored EB5A0FB1814FB1E8F5104D76C640096CEB4E51BA340F0AE5BF5B9554CC81FAAD; registration is pending.
+2026-10-27 04:10:44.993 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 47.3570 ms
+2026-10-27 04:10:54.138 +00:00 [ERR] File registration for EB5A0FB1814FB1E8F5104D76C640096CEB4E51BA340F0AE5BF5B9554CC81FAAD failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:11:25.877 +00:00 [WRN] File registration for 7DC2169D1CF0B0CB2F7229642D047882EC8E73A72269E78B9A23472464DE36E6 will retry at "2026-10-27T04:14:05.8756157+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:12:44.937 +00:00 [DBG] Reading message.
+2026-10-27 04:12:44.939 +00:00 [DBG] Sending message.
+2026-10-27 04:12:44.939 +00:00 [DBG] Reading message.
+2026-10-27 04:12:44.994 +00:00 [DBG] Sending message.
+2026-10-27 04:12:44.994 +00:00 [DBG] Reading message.
+2026-10-27 04:12:45.053 +00:00 [DBG] Sending message.
+2026-10-27 04:12:45.053 +00:00 [DBG] Reading message.
+2026-10-27 04:12:45.100 +00:00 [DBG] Sending message.
+2026-10-27 04:12:45.100 +00:00 [DBG] Reading message.
+2026-10-27 04:12:45.143 +00:00 [DBG] Sending message.
+2026-10-27 04:12:45.143 +00:00 [DBG] Reading message.
+2026-10-27 04:12:45.189 +00:00 [DBG] Sending message.
+2026-10-27 04:12:45.189 +00:00 [DBG] Reading message.
+2026-10-27 04:12:45.195 +00:00 [DBG] Sending message.
+2026-10-27 04:12:45.195 +00:00 [INF] Receiver durably stored BF4361AC4AAE5C4EA65672E130A3D2604CBFB8D06F8050C8E1E3F78B39E230CF; registration is pending.
+2026-10-27 04:12:45.196 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 258.4267 ms
+2026-10-27 04:12:47.740 +00:00 [WRN] File registration for BF4361AC4AAE5C4EA65672E130A3D2604CBFB8D06F8050C8E1E3F78B39E230CF will retry at "2026-10-27T04:12:57.7397658+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:13:09.593 +00:00 [WRN] File registration for BF4361AC4AAE5C4EA65672E130A3D2604CBFB8D06F8050C8E1E3F78B39E230CF will retry at "2026-10-27T04:13:29.5924836+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:13:31.527 +00:00 [WRN] File registration for BF4361AC4AAE5C4EA65672E130A3D2604CBFB8D06F8050C8E1E3F78B39E230CF will retry at "2026-10-27T04:14:11.5260185+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:13:35.668 +00:00 [INF] HTTP GET /health responded 200 in 0.0757 ms
+2026-10-27 04:13:35.682 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3379 ms
+2026-10-27 04:13:35.684 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0222 ms
+2026-10-27 04:14:13.520 +00:00 [ERR] File registration for 7DC2169D1CF0B0CB2F7229642D047882EC8E73A72269E78B9A23472464DE36E6 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 04:14:15.317 +00:00 [WRN] File registration for BF4361AC4AAE5C4EA65672E130A3D2604CBFB8D06F8050C8E1E3F78B39E230CF will retry at "2026-10-27T04:15:35.3167371+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:15:30.363 +00:00 [INF] HTTP GET /health responded 200 in 0.0601 ms
+2026-10-27 04:15:30.376 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3226 ms
+2026-10-27 04:15:30.378 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9858 ms
+2026-10-27 04:15:37.228 +00:00 [WRN] File registration for BF4361AC4AAE5C4EA65672E130A3D2604CBFB8D06F8050C8E1E3F78B39E230CF will retry at "2026-10-27T04:18:17.2273569+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:15:44.958 +00:00 [DBG] Reading message.
+2026-10-27 04:15:44.959 +00:00 [DBG] Sending message.
+2026-10-27 04:15:44.959 +00:00 [DBG] Reading message.
+2026-10-27 04:15:44.990 +00:00 [DBG] Sending message.
+2026-10-27 04:15:44.990 +00:00 [DBG] Reading message.
+2026-10-27 04:15:44.998 +00:00 [DBG] Sending message.
+2026-10-27 04:15:44.998 +00:00 [INF] Receiver durably stored 985C77751E61BE5358F6122E836B5C1C4CA8E52DBFD07E819C22A03086B36700; registration is pending.
+2026-10-27 04:15:44.998 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 40.0360 ms
+2026-10-27 04:15:45.008 +00:00 [DBG] Reading message.
+2026-10-27 04:15:45.009 +00:00 [DBG] Sending message.
+2026-10-27 04:15:45.009 +00:00 [DBG] Reading message.
+2026-10-27 04:15:45.029 +00:00 [DBG] Sending message.
+2026-10-27 04:15:45.029 +00:00 [DBG] Reading message.
+2026-10-27 04:15:45.036 +00:00 [DBG] Sending message.
+2026-10-27 04:15:45.036 +00:00 [INF] Receiver durably stored C252C298D57415F24F8C152346B76B7AE925D001E206D5D1EC43DD14361EE0D3; registration is pending.
+2026-10-27 04:15:45.036 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 28.2079 ms
+2026-10-27 04:15:48.406 +00:00 [WRN] File registration for 985C77751E61BE5358F6122E836B5C1C4CA8E52DBFD07E819C22A03086B36700 will retry at "2026-10-27T04:15:58.4052281+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:15:48.421 +00:00 [ERR] File registration for C252C298D57415F24F8C152346B76B7AE925D001E206D5D1EC43DD14361EE0D3 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:15:59.596 +00:00 [WRN] File registration for 985C77751E61BE5358F6122E836B5C1C4CA8E52DBFD07E819C22A03086B36700 will retry at "2026-10-27T04:16:19.5951360+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:16:20.777 +00:00 [WRN] File registration for 985C77751E61BE5358F6122E836B5C1C4CA8E52DBFD07E819C22A03086B36700 will retry at "2026-10-27T04:17:00.7767622+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:16:49.543 +00:00 [INF] HTTP GET /health responded 200 in 0.0631 ms
+2026-10-27 04:16:49.556 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4304 ms
+2026-10-27 04:16:49.559 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0083 ms
+2026-10-27 04:17:11.959 +00:00 [WRN] File registration for 985C77751E61BE5358F6122E836B5C1C4CA8E52DBFD07E819C22A03086B36700 will retry at "2026-10-27T04:18:31.9589415+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:17:25.590 +00:00 [INF] HTTP GET /health responded 200 in 0.0813 ms
+2026-10-27 04:17:25.603 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3830 ms
+2026-10-27 04:17:25.605 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1401 ms
+2026-10-27 04:17:44.940 +00:00 [DBG] Reading message.
+2026-10-27 04:17:44.940 +00:00 [DBG] Sending message.
+2026-10-27 04:17:44.940 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 0.7067 ms
+2026-10-27 04:17:44.947 +00:00 [DBG] Reading message.
+2026-10-27 04:17:44.948 +00:00 [DBG] Sending message.
+2026-10-27 04:17:44.948 +00:00 [DBG] Reading message.
+2026-10-27 04:17:44.969 +00:00 [DBG] Sending message.
+2026-10-27 04:17:44.969 +00:00 [DBG] Reading message.
+2026-10-27 04:17:44.975 +00:00 [DBG] Sending message.
+2026-10-27 04:17:44.975 +00:00 [INF] Receiver durably stored 2E48EBD9526996F3517DA7B332023F2AEECBDD8F918631757083C11CA46A0F8A; registration is pending.
+2026-10-27 04:17:44.975 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 28.1455 ms
+2026-10-27 04:17:51.979 +00:00 [ERR] File registration for 2E48EBD9526996F3517DA7B332023F2AEECBDD8F918631757083C11CA46A0F8A failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:18:23.994 +00:00 [ERR] File registration for BF4361AC4AAE5C4EA65672E130A3D2604CBFB8D06F8050C8E1E3F78B39E230CF failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 04:18:35.175 +00:00 [WRN] File registration for 985C77751E61BE5358F6122E836B5C1C4CA8E52DBFD07E819C22A03086B36700 will retry at "2026-10-27T04:21:15.1743639+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:20:44.954 +00:00 [DBG] Reading message.
+2026-10-27 04:20:44.958 +00:00 [DBG] Sending message.
+2026-10-27 04:20:44.958 +00:00 [DBG] Reading message.
+2026-10-27 04:20:45.022 +00:00 [DBG] Sending message.
+2026-10-27 04:20:45.022 +00:00 [DBG] Reading message.
+2026-10-27 04:20:45.075 +00:00 [DBG] Sending message.
+2026-10-27 04:20:45.075 +00:00 [DBG] Reading message.
+2026-10-27 04:20:45.105 +00:00 [DBG] Sending message.
+2026-10-27 04:20:45.105 +00:00 [DBG] Reading message.
+2026-10-27 04:20:45.111 +00:00 [DBG] Sending message.
+2026-10-27 04:20:45.111 +00:00 [INF] Receiver durably stored 04018F6FECE933DB4C7614F913D6BBE8002897EA86E8628F8F442EDF74326832; registration is pending.
+2026-10-27 04:20:45.111 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 156.9232 ms
+2026-10-27 04:20:47.061 +00:00 [WRN] File registration for 04018F6FECE933DB4C7614F913D6BBE8002897EA86E8628F8F442EDF74326832 will retry at "2026-10-27T04:20:57.0601739+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:20:58.958 +00:00 [WRN] File registration for 04018F6FECE933DB4C7614F913D6BBE8002897EA86E8628F8F442EDF74326832 will retry at "2026-10-27T04:21:18.9578078+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:21:20.231 +00:00 [ERR] File registration for 985C77751E61BE5358F6122E836B5C1C4CA8E52DBFD07E819C22A03086B36700 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 04:21:22.256 +00:00 [WRN] File registration for 04018F6FECE933DB4C7614F913D6BBE8002897EA86E8628F8F442EDF74326832 will retry at "2026-10-27T04:22:02.2551469+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:21:33.178 +00:00 [INF] HTTP GET /health responded 200 in 0.0686 ms
+2026-10-27 04:21:33.191 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3048 ms
+2026-10-27 04:21:33.193 +00:00 [INF] HTTP GET /api/receives responded 200 in 0.9824 ms
+2026-10-27 04:22:04.756 +00:00 [WRN] File registration for 04018F6FECE933DB4C7614F913D6BBE8002897EA86E8628F8F442EDF74326832 will retry at "2026-10-27T04:23:24.7553010+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:22:11.760 +00:00 [INF] HTTP GET /health responded 200 in 0.0890 ms
+2026-10-27 04:22:11.773 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3504 ms
+2026-10-27 04:22:11.776 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0195 ms
+2026-10-27 04:22:44.955 +00:00 [DBG] Reading message.
+2026-10-27 04:22:44.957 +00:00 [DBG] Sending message.
+2026-10-27 04:22:44.957 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.006 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.006 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.056 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.056 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.109 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.110 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.154 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.154 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.193 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.194 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.200 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.200 +00:00 [INF] Receiver durably stored CE17AE90A08954421E1F2258E2F07AA5CFB7813F91BD15DC411FEA2D90AC7431; registration is pending.
+2026-10-27 04:22:45.200 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 245.0108 ms
+2026-10-27 04:22:45.213 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.214 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.214 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.254 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.254 +00:00 [DBG] Reading message.
+2026-10-27 04:22:45.262 +00:00 [DBG] Sending message.
+2026-10-27 04:22:45.262 +00:00 [INF] Receiver durably stored 285636A24F01A0A61A8C5AFBDDAA868884A9CB141C4CBC31C51100EF64BCA214; registration is pending.
+2026-10-27 04:22:45.262 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 49.2031 ms
+2026-10-27 04:22:56.875 +00:00 [WRN] File registration for CE17AE90A08954421E1F2258E2F07AA5CFB7813F91BD15DC411FEA2D90AC7431 will retry at "2026-10-27T04:23:06.8744349+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:22:56.898 +00:00 [ERR] File registration for 285636A24F01A0A61A8C5AFBDDAA868884A9CB141C4CBC31C51100EF64BCA214 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:23:09.027 +00:00 [WRN] File registration for CE17AE90A08954421E1F2258E2F07AA5CFB7813F91BD15DC411FEA2D90AC7431 will retry at "2026-10-27T04:23:29.0258771+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:23:30.741 +00:00 [INF] HTTP GET /health responded 200 in 0.0852 ms
+2026-10-27 04:23:30.756 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4126 ms
+2026-10-27 04:23:30.759 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1302 ms
+2026-10-27 04:23:31.116 +00:00 [WRN] File registration for 04018F6FECE933DB4C7614F913D6BBE8002897EA86E8628F8F442EDF74326832 will retry at "2026-10-27T04:26:11.1148519+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:23:43.208 +00:00 [WRN] File registration for CE17AE90A08954421E1F2258E2F07AA5CFB7813F91BD15DC411FEA2D90AC7431 will retry at "2026-10-27T04:24:23.2066162+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:24:23.869 +00:00 [INF] HTTP GET /health responded 200 in 0.0873 ms
+2026-10-27 04:24:23.882 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3510 ms
+2026-10-27 04:24:23.885 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0189 ms
+2026-10-27 04:24:25.339 +00:00 [WRN] File registration for CE17AE90A08954421E1F2258E2F07AA5CFB7813F91BD15DC411FEA2D90AC7431 will retry at "2026-10-27T04:25:45.3386512+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:24:44.950 +00:00 [DBG] Reading message.
+2026-10-27 04:24:44.951 +00:00 [DBG] Sending message.
+2026-10-27 04:24:44.951 +00:00 [DBG] Reading message.
+2026-10-27 04:24:44.969 +00:00 [DBG] Sending message.
+2026-10-27 04:24:44.969 +00:00 [DBG] Reading message.
+2026-10-27 04:24:44.976 +00:00 [DBG] Sending message.
+2026-10-27 04:24:44.976 +00:00 [INF] Receiver durably stored 1CA40AE31D5126F62DF6D87880BF68BD3EAD51E2E7A463C34AA59B339C06DE92; registration is pending.
+2026-10-27 04:24:44.976 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 25.9865 ms
+2026-10-27 04:24:44.990 +00:00 [DBG] Reading message.
+2026-10-27 04:24:44.992 +00:00 [DBG] Sending message.
+2026-10-27 04:24:44.992 +00:00 [DBG] Reading message.
+2026-10-27 04:24:45.012 +00:00 [DBG] Sending message.
+2026-10-27 04:24:45.012 +00:00 [DBG] Reading message.
+2026-10-27 04:24:45.018 +00:00 [DBG] Sending message.
+2026-10-27 04:24:45.019 +00:00 [INF] Receiver durably stored E571FDB8BF9A941E17DB0C8D0F9051E8049054A4718C8CBCBB9846F19FAB3DD6; registration is pending.
+2026-10-27 04:24:45.019 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 28.5057 ms
+2026-10-27 04:24:45.371 +00:00 [ERR] File registration for E571FDB8BF9A941E17DB0C8D0F9051E8049054A4718C8CBCBB9846F19FAB3DD6 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:25:47.407 +00:00 [WRN] File registration for CE17AE90A08954421E1F2258E2F07AA5CFB7813F91BD15DC411FEA2D90AC7431 will retry at "2026-10-27T04:28:27.4060292+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 04:25:49.439 +00:00 [INF] HTTP GET /health responded 200 in 0.0631 ms
+2026-10-27 04:25:49.453 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3344 ms
+2026-10-27 04:25:49.455 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2131 ms
+2026-10-27 04:26:19.550 +00:00 [ERR] File registration for 04018F6FECE933DB4C7614F913D6BBE8002897EA86E8628F8F442EDF74326832 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 04:27:54.290 +00:00 [INF] HTTP GET /health responded 200 in 0.0702 ms
+2026-10-27 04:27:54.303 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3202 ms
+2026-10-27 04:27:54.305 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0106 ms
+2026-10-27 04:28:31.507 +00:00 [ERR] File registration for CE17AE90A08954421E1F2258E2F07AA5CFB7813F91BD15DC411FEA2D90AC7431 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 04:28:44.980 +00:00 [DBG] Reading message.
+2026-10-27 04:28:44.982 +00:00 [DBG] Sending message.
+2026-10-27 04:28:44.982 +00:00 [DBG] Reading message.
+2026-10-27 04:28:45.019 +00:00 [DBG] Sending message.
+2026-10-27 04:28:45.019 +00:00 [DBG] Reading message.
+2026-10-27 04:28:45.026 +00:00 [DBG] Sending message.
+2026-10-27 04:28:45.026 +00:00 [INF] Receiver durably stored A76BEC6F5CF7CB5EA7FB956D2664F9A679ED3B3250B66CF1FD85B87E69FB440A; registration is pending.
+2026-10-27 04:28:45.026 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 45.4913 ms
+2026-10-27 04:28:45.036 +00:00 [DBG] Reading message.
+2026-10-27 04:28:45.038 +00:00 [DBG] Sending message.
+2026-10-27 04:28:45.039 +00:00 [DBG] Reading message.
+2026-10-27 04:28:45.058 +00:00 [DBG] Sending message.
+2026-10-27 04:28:45.058 +00:00 [DBG] Reading message.
+2026-10-27 04:28:45.064 +00:00 [DBG] Sending message.
+2026-10-27 04:28:45.064 +00:00 [INF] Receiver durably stored E3899EBED8F2C4081F79F06FAC4C161517167A2BEA31117F5A3E9A521303F7CB; registration is pending.
+2026-10-27 04:28:45.064 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 27.5096 ms
+2026-10-27 04:28:55.171 +00:00 [ERR] File registration for E3899EBED8F2C4081F79F06FAC4C161517167A2BEA31117F5A3E9A521303F7CB failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:29:47.790 +00:00 [INF] HTTP GET /health responded 200 in 0.0908 ms
+2026-10-27 04:29:47.802 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4059 ms
+2026-10-27 04:29:47.805 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1308 ms
+2026-10-27 04:32:59.898 +00:00 [INF] HTTP GET /health responded 200 in 0.0781 ms
+2026-10-27 04:32:59.911 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3127 ms
+2026-10-27 04:32:59.914 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0927 ms
+2026-10-27 04:33:44.978 +00:00 [DBG] Reading message.
+2026-10-27 04:33:44.980 +00:00 [DBG] Sending message.
+2026-10-27 04:33:44.980 +00:00 [DBG] Reading message.
+2026-10-27 04:33:45.179 +00:00 [DBG] Sending message.
+2026-10-27 04:33:45.179 +00:00 [DBG] Reading message.
+2026-10-27 04:33:45.202 +00:00 [DBG] Sending message.
+2026-10-27 04:33:45.202 +00:00 [DBG] Reading message.
+2026-10-27 04:33:45.208 +00:00 [DBG] Sending message.
+2026-10-27 04:33:45.208 +00:00 [INF] Receiver durably stored 48EC91449072E29BCD679C09EC7CC908FB08A597902E3FD57D5D152E769D0D5A; registration is pending.
+2026-10-27 04:33:45.208 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 230.0037 ms
+2026-10-27 04:33:45.218 +00:00 [DBG] Reading message.
+2026-10-27 04:33:45.220 +00:00 [DBG] Sending message.
+2026-10-27 04:33:45.220 +00:00 [DBG] Reading message.
+2026-10-27 04:33:45.253 +00:00 [DBG] Sending message.
+2026-10-27 04:33:45.253 +00:00 [DBG] Reading message.
+2026-10-27 04:33:45.260 +00:00 [DBG] Sending message.
+2026-10-27 04:33:45.260 +00:00 [INF] Receiver durably stored 17ADEF5B8997992DC6B3B476CE3AD955D165BA8794BD156D7CE3BA7B681DFD95; registration is pending.
+2026-10-27 04:33:45.260 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 41.6023 ms
+2026-10-27 04:33:51.788 +00:00 [ERR] File registration for 17ADEF5B8997992DC6B3B476CE3AD955D165BA8794BD156D7CE3BA7B681DFD95 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:34:53.946 +00:00 [INF] HTTP GET /health responded 200 in 0.0866 ms
+2026-10-27 04:34:53.960 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3988 ms
+2026-10-27 04:34:53.962 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0422 ms
+2026-10-27 04:35:44.259 +00:00 [INF] HTTP GET /health responded 200 in 0.0847 ms
+2026-10-27 04:35:44.301 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4298 ms
+2026-10-27 04:35:44.304 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1157 ms
+2026-10-27 04:36:44.973 +00:00 [DBG] Reading message.
+2026-10-27 04:36:44.974 +00:00 [DBG] Sending message.
+2026-10-27 04:36:44.974 +00:00 [DBG] Reading message.
+2026-10-27 04:36:44.995 +00:00 [DBG] Sending message.
+2026-10-27 04:36:44.995 +00:00 [DBG] Reading message.
+2026-10-27 04:36:45.003 +00:00 [DBG] Sending message.
+2026-10-27 04:36:45.003 +00:00 [INF] Receiver durably stored E56363E30CC3AF3E97A7DF11F70F584CB00D2C5040F886070D0F368FD60D80EE; registration is pending.
+2026-10-27 04:36:45.003 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 30.1853 ms
+2026-10-27 04:36:45.015 +00:00 [DBG] Reading message.
+2026-10-27 04:36:45.017 +00:00 [DBG] Sending message.
+2026-10-27 04:36:45.017 +00:00 [DBG] Reading message.
+2026-10-27 04:36:45.035 +00:00 [DBG] Sending message.
+2026-10-27 04:36:45.035 +00:00 [DBG] Reading message.
+2026-10-27 04:36:45.040 +00:00 [DBG] Sending message.
+2026-10-27 04:36:45.040 +00:00 [INF] Receiver durably stored 8310ADC307FE392C4C253CAD5D8238A7C072DB7586E8E7B4DEBA78C599EFC486; registration is pending.
+2026-10-27 04:36:45.040 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 24.8946 ms
+2026-10-27 04:36:51.875 +00:00 [ERR] File registration for 8310ADC307FE392C4C253CAD5D8238A7C072DB7586E8E7B4DEBA78C599EFC486 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:37:39.329 +00:00 [INF] HTTP GET /health responded 200 in 0.0573 ms
+2026-10-27 04:37:39.342 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3182 ms
+2026-10-27 04:37:39.345 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0513 ms
+2026-10-27 04:38:17.757 +00:00 [INF] HTTP GET /health responded 200 in 0.0654 ms
+2026-10-27 04:38:17.770 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3280 ms
+2026-10-27 04:38:17.773 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0543 ms
+2026-10-27 04:38:44.961 +00:00 [DBG] Reading message.
+2026-10-27 04:38:44.962 +00:00 [DBG] Sending message.
+2026-10-27 04:38:44.962 +00:00 [DBG] Reading message.
+2026-10-27 04:38:44.999 +00:00 [DBG] Sending message.
+2026-10-27 04:38:44.999 +00:00 [DBG] Reading message.
+2026-10-27 04:38:45.007 +00:00 [DBG] Sending message.
+2026-10-27 04:38:45.007 +00:00 [INF] Receiver durably stored 68798D0208CD1DC235D7D2BE00092AA38FE583EB8A373E9FE7FDDC73FF4C9791; registration is pending.
+2026-10-27 04:38:45.007 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 45.9700 ms
+2026-10-27 04:38:45.022 +00:00 [DBG] Reading message.
+2026-10-27 04:38:45.023 +00:00 [DBG] Sending message.
+2026-10-27 04:38:45.023 +00:00 [DBG] Reading message.
+2026-10-27 04:38:45.043 +00:00 [DBG] Sending message.
+2026-10-27 04:38:45.043 +00:00 [DBG] Reading message.
+2026-10-27 04:38:45.050 +00:00 [DBG] Sending message.
+2026-10-27 04:38:45.050 +00:00 [INF] Receiver durably stored 208C8A52EB9B3AB09FCECC374B5052C2D3A106B210BD48F9BF6FDCB3128894E6; registration is pending.
+2026-10-27 04:38:45.050 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 28.2929 ms
+2026-10-27 04:38:54.999 +00:00 [ERR] File registration for 208C8A52EB9B3AB09FCECC374B5052C2D3A106B210BD48F9BF6FDCB3128894E6 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:39:36.344 +00:00 [INF] HTTP GET /health responded 200 in 0.0639 ms
+2026-10-27 04:39:36.358 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3303 ms
+2026-10-27 04:39:36.360 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0391 ms
+2026-10-27 04:40:09.265 +00:00 [INF] HTTP GET /health responded 200 in 0.0577 ms
+2026-10-27 04:40:09.278 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3067 ms
+2026-10-27 04:40:09.280 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0317 ms
+2026-10-27 04:40:44.966 +00:00 [DBG] Reading message.
+2026-10-27 04:40:44.967 +00:00 [DBG] Sending message.
+2026-10-27 04:40:44.967 +00:00 [DBG] Reading message.
+2026-10-27 04:40:45.009 +00:00 [DBG] Sending message.
+2026-10-27 04:40:45.009 +00:00 [DBG] Reading message.
+2026-10-27 04:40:45.033 +00:00 [DBG] Sending message.
+2026-10-27 04:40:45.033 +00:00 [DBG] Reading message.
+2026-10-27 04:40:45.039 +00:00 [DBG] Sending message.
+2026-10-27 04:40:45.039 +00:00 [INF] Receiver durably stored E5EB95B02527043A2BCB888017BB9AC4C7AEBFD24510C1BE9067B1EB660ACA04; registration is pending.
+2026-10-27 04:40:45.039 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 73.6812 ms
+2026-10-27 04:40:45.053 +00:00 [DBG] Reading message.
+2026-10-27 04:40:45.054 +00:00 [DBG] Sending message.
+2026-10-27 04:40:45.054 +00:00 [DBG] Reading message.
+2026-10-27 04:40:45.090 +00:00 [DBG] Sending message.
+2026-10-27 04:40:45.090 +00:00 [DBG] Reading message.
+2026-10-27 04:40:45.096 +00:00 [DBG] Sending message.
+2026-10-27 04:40:45.096 +00:00 [INF] Receiver durably stored 0372D78A14A95432BBEFB064F444CB568404BED2EC44D9DC8FABAD7434A54A4E; registration is pending.
+2026-10-27 04:40:45.096 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 43.1215 ms
+2026-10-27 04:41:01.515 +00:00 [ERR] File registration for 0372D78A14A95432BBEFB064F444CB568404BED2EC44D9DC8FABAD7434A54A4E failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:41:38.950 +00:00 [INF] HTTP GET /health responded 200 in 0.0611 ms
+2026-10-27 04:41:38.963 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3308 ms
+2026-10-27 04:41:38.966 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0446 ms
+2026-10-27 04:42:37.565 +00:00 [INF] HTTP GET /health responded 200 in 0.0658 ms
+2026-10-27 04:42:37.579 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3589 ms
+2026-10-27 04:42:37.582 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1815 ms
+2026-10-27 04:43:44.996 +00:00 [DBG] Reading message.
+2026-10-27 04:43:44.998 +00:00 [DBG] Sending message.
+2026-10-27 04:43:44.998 +00:00 [DBG] Reading message.
+2026-10-27 04:43:45.017 +00:00 [DBG] Sending message.
+2026-10-27 04:43:45.017 +00:00 [DBG] Reading message.
+2026-10-27 04:43:45.023 +00:00 [DBG] Sending message.
+2026-10-27 04:43:45.023 +00:00 [INF] Receiver durably stored 63B30F5A0C0BDB98D957783B498511A6E4A074C3A66354A48CC367AED2AEC8E9; registration is pending.
+2026-10-27 04:43:45.023 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 27.3112 ms
+2026-10-27 04:43:45.034 +00:00 [DBG] Reading message.
+2026-10-27 04:43:45.035 +00:00 [DBG] Sending message.
+2026-10-27 04:43:45.035 +00:00 [DBG] Reading message.
+2026-10-27 04:43:45.059 +00:00 [DBG] Sending message.
+2026-10-27 04:43:45.059 +00:00 [DBG] Reading message.
+2026-10-27 04:43:45.067 +00:00 [DBG] Sending message.
+2026-10-27 04:43:45.067 +00:00 [INF] Receiver durably stored 55E49940DA6EF1101E52FC978FF779A473E139478BA48589AF84BF22BA83F0D6; registration is pending.
+2026-10-27 04:43:45.067 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 33.1687 ms
+2026-10-27 04:43:51.603 +00:00 [ERR] File registration for 55E49940DA6EF1101E52FC978FF779A473E139478BA48589AF84BF22BA83F0D6 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:44:28.929 +00:00 [INF] HTTP GET /health responded 200 in 0.0621 ms
+2026-10-27 04:44:28.941 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3229 ms
+2026-10-27 04:44:28.944 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1530 ms
+2026-10-27 04:48:14.780 +00:00 [INF] HTTP GET /health responded 200 in 0.0560 ms
+2026-10-27 04:48:14.793 +00:00 [INF] HTTP GET /api/status responded 200 in 0.5843 ms
+2026-10-27 04:48:14.795 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0737 ms
+2026-10-27 04:48:44.989 +00:00 [DBG] Reading message.
+2026-10-27 04:48:44.992 +00:00 [DBG] Sending message.
+2026-10-27 04:48:44.992 +00:00 [DBG] Reading message.
+2026-10-27 04:48:45.027 +00:00 [DBG] Sending message.
+2026-10-27 04:48:45.027 +00:00 [DBG] Reading message.
+2026-10-27 04:48:45.034 +00:00 [DBG] Sending message.
+2026-10-27 04:48:45.034 +00:00 [INF] Receiver durably stored E9DFDF6EC70EFBC6FEEA0AC5783AD63F2AB05E9BEC4C6BD20CF2392269DB4BFA; registration is pending.
+2026-10-27 04:48:45.034 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 44.9936 ms
+2026-10-27 04:48:45.046 +00:00 [DBG] Reading message.
+2026-10-27 04:48:45.048 +00:00 [DBG] Sending message.
+2026-10-27 04:48:45.048 +00:00 [DBG] Reading message.
+2026-10-27 04:48:45.068 +00:00 [DBG] Sending message.
+2026-10-27 04:48:45.068 +00:00 [DBG] Reading message.
+2026-10-27 04:48:45.074 +00:00 [DBG] Sending message.
+2026-10-27 04:48:45.074 +00:00 [INF] Receiver durably stored 026BB9FDCBD18054FD5AC16ACE6744C2CE8239C1832E15F832A88243CEFD4C43; registration is pending.
+2026-10-27 04:48:45.074 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 28.2806 ms
+2026-10-27 04:48:54.492 +00:00 [ERR] File registration for 026BB9FDCBD18054FD5AC16ACE6744C2CE8239C1832E15F832A88243CEFD4C43 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:49:44.515 +00:00 [INF] HTTP GET /health responded 200 in 0.0815 ms
+2026-10-27 04:49:44.529 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3651 ms
+2026-10-27 04:49:44.531 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0873 ms
+2026-10-27 04:50:26.284 +00:00 [INF] HTTP GET /health responded 200 in 0.0602 ms
+2026-10-27 04:50:26.297 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3157 ms
+2026-10-27 04:50:26.300 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2313 ms
+2026-10-27 04:50:44.974 +00:00 [DBG] Reading message.
+2026-10-27 04:50:44.976 +00:00 [DBG] Sending message.
+2026-10-27 04:50:44.976 +00:00 [DBG] Reading message.
+2026-10-27 04:50:45.016 +00:00 [DBG] Sending message.
+2026-10-27 04:50:45.016 +00:00 [DBG] Reading message.
+2026-10-27 04:50:45.042 +00:00 [DBG] Sending message.
+2026-10-27 04:50:45.042 +00:00 [DBG] Reading message.
+2026-10-27 04:50:45.049 +00:00 [DBG] Sending message.
+2026-10-27 04:50:45.049 +00:00 [INF] Receiver durably stored 96F63AC815E7D8510AE0408B37815EC467BF3545A90B83B1A49FA0305F4447A9; registration is pending.
+2026-10-27 04:50:45.049 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 75.1936 ms
+2026-10-27 04:50:45.063 +00:00 [DBG] Reading message.
+2026-10-27 04:50:45.065 +00:00 [DBG] Sending message.
+2026-10-27 04:50:45.065 +00:00 [DBG] Reading message.
+2026-10-27 04:50:45.103 +00:00 [DBG] Sending message.
+2026-10-27 04:50:45.103 +00:00 [DBG] Reading message.
+2026-10-27 04:50:45.110 +00:00 [DBG] Sending message.
+2026-10-27 04:50:45.110 +00:00 [INF] Receiver durably stored 440ABBC2FD787A943C55A54CBE1E31A574ECF7F3D339DAC25155BF64412DB8C5; registration is pending.
+2026-10-27 04:50:45.110 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 46.1880 ms
+2026-10-27 04:51:01.020 +00:00 [ERR] File registration for 440ABBC2FD787A943C55A54CBE1E31A574ECF7F3D339DAC25155BF64412DB8C5 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:51:22.864 +00:00 [INF] HTTP GET /health responded 200 in 0.0768 ms
+2026-10-27 04:51:22.878 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3405 ms
+2026-10-27 04:51:22.881 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.3016 ms
+2026-10-27 04:51:51.958 +00:00 [INF] HTTP GET /health responded 200 in 0.0601 ms
+2026-10-27 04:51:51.971 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3166 ms
+2026-10-27 04:51:51.974 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.4270 ms
+2026-10-27 04:52:44.975 +00:00 [DBG] Reading message.
+2026-10-27 04:52:44.977 +00:00 [DBG] Sending message.
+2026-10-27 04:52:44.977 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.008 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.008 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.014 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.014 +00:00 [INF] Receiver durably stored 6E678867D501F0F35718299CD5759C8ADA18D3C9DE9445E2B69AAC387AED68E6; registration is pending.
+2026-10-27 04:52:45.014 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 39.3332 ms
+2026-10-27 04:52:45.027 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.029 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.029 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.046 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.046 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.053 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.053 +00:00 [INF] Receiver durably stored 4347EC1928551F1D3062226F9A220194A7F574C8AA319DE7A19E9FA3E80DDA74; registration is pending.
+2026-10-27 04:52:45.053 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 26.6662 ms
+2026-10-27 04:52:45.069 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.070 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.070 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.090 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.090 +00:00 [DBG] Reading message.
+2026-10-27 04:52:45.096 +00:00 [DBG] Sending message.
+2026-10-27 04:52:45.096 +00:00 [INF] Receiver durably stored 37630C17B961AFEFE3AA475947C1025076AAC73E1BC56D202E1E9FD0BFFBA0EF; registration is pending.
+2026-10-27 04:52:45.097 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 27.7543 ms
+2026-10-27 04:52:51.713 +00:00 [ERR] File registration for 37630C17B961AFEFE3AA475947C1025076AAC73E1BC56D202E1E9FD0BFFBA0EF failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:53:49.442 +00:00 [INF] HTTP GET /health responded 200 in 0.0728 ms
+2026-10-27 04:53:49.456 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3261 ms
+2026-10-27 04:53:49.458 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1535 ms
+2026-10-27 04:54:28.980 +00:00 [INF] HTTP GET /health responded 200 in 0.0610 ms
+2026-10-27 04:54:28.993 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3194 ms
+2026-10-27 04:54:28.996 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.0783 ms
+2026-10-27 04:54:44.975 +00:00 [DBG] Reading message.
+2026-10-27 04:54:44.977 +00:00 [DBG] Sending message.
+2026-10-27 04:54:44.977 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.026 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.026 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.078 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.078 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.108 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.109 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.114 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.114 +00:00 [INF] Receiver durably stored ADB9D540A1293CD1B5E3B1E9479B4F113DF4FFC23A1ADEA87B4C3CB4622780BD; registration is pending.
+2026-10-27 04:54:45.115 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 139.3295 ms
+2026-10-27 04:54:45.126 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.128 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.128 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.159 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.160 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.166 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.166 +00:00 [INF] Receiver durably stored 404F9E4E7170A824261B5E4764F63391100DB37F63DE504BFFDFCE767303A0B1; registration is pending.
+2026-10-27 04:54:45.166 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 39.9087 ms
+2026-10-27 04:54:45.177 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.179 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.179 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.198 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.198 +00:00 [DBG] Reading message.
+2026-10-27 04:54:45.202 +00:00 [DBG] Sending message.
+2026-10-27 04:54:45.203 +00:00 [INF] Receiver durably stored A68424AD6165AF2C0F1A50EC1DB5EFB524A51CB53AF9AD0947EB78F381079A8C; registration is pending.
+2026-10-27 04:54:45.203 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 25.3635 ms
+2026-10-27 04:54:59.055 +00:00 [ERR] File registration for A68424AD6165AF2C0F1A50EC1DB5EFB524A51CB53AF9AD0947EB78F381079A8C failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:56:00.971 +00:00 [INF] HTTP GET /health responded 200 in 0.0607 ms
+2026-10-27 04:56:00.984 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3229 ms
+2026-10-27 04:56:00.986 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1634 ms
+2026-10-27 04:56:43.229 +00:00 [INF] HTTP GET /health responded 200 in 0.0564 ms
+2026-10-27 04:56:43.242 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3166 ms
+2026-10-27 04:56:43.244 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1056 ms
+2026-10-27 04:57:45.011 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.013 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.013 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.062 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.062 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.112 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.112 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.150 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.151 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.192 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.192 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.230 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.230 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.237 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.237 +00:00 [INF] Receiver durably stored BD7DC7E503B72A0547A1970C3572443D1E944A441CAB9159000D2E94DA55DAB9; registration is pending.
+2026-10-27 04:57:45.237 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 225.9699 ms
+2026-10-27 04:57:45.250 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.251 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.251 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.295 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.295 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.321 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.321 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.329 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.329 +00:00 [INF] Receiver durably stored E65002ABA1C94F23854392C48AD1373B58B3874F736C89D646D6DA5A85F6B3C1; registration is pending.
+2026-10-27 04:57:45.329 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 78.5285 ms
+2026-10-27 04:57:45.344 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.345 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.345 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.382 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.382 +00:00 [DBG] Reading message.
+2026-10-27 04:57:45.388 +00:00 [DBG] Sending message.
+2026-10-27 04:57:45.389 +00:00 [INF] Receiver durably stored 31EE03D18A00B9AF26AD44D0D812071778C9D896D50E556AC281DE66E2D45F4F; registration is pending.
+2026-10-27 04:57:45.389 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 45.1740 ms
+2026-10-27 04:58:06.070 +00:00 [ERR] File registration for 31EE03D18A00B9AF26AD44D0D812071778C9D896D50E556AC281DE66E2D45F4F failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 04:58:20.544 +00:00 [INF] HTTP GET /health responded 200 in 0.0841 ms
+2026-10-27 04:58:20.557 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4260 ms
+2026-10-27 04:58:20.560 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1758 ms
+2026-10-27 04:58:50.189 +00:00 [INF] HTTP GET /health responded 200 in 0.0621 ms
+2026-10-27 04:58:50.202 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3362 ms
+2026-10-27 04:58:50.205 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.4195 ms
+2026-10-27 04:59:44.979 +00:00 [DBG] Reading message.
+2026-10-27 04:59:44.980 +00:00 [DBG] Sending message.
+2026-10-27 04:59:44.981 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.013 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.013 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.019 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.019 +00:00 [INF] Receiver durably stored 4856DB75DF8BD80B0E9025C996ADD81CB187CCE53EB95581BCC616A4FA9704EA; registration is pending.
+2026-10-27 04:59:45.019 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 40.2499 ms
+2026-10-27 04:59:45.031 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.032 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.032 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.048 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.048 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.053 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.054 +00:00 [INF] Receiver durably stored 765890AE477E996C66D30EAA688165906E1C5E4B1A8A73EDA599B4450908CF00; registration is pending.
+2026-10-27 04:59:45.054 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 22.5723 ms
+2026-10-27 04:59:45.064 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.066 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.066 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.085 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.085 +00:00 [DBG] Reading message.
+2026-10-27 04:59:45.091 +00:00 [DBG] Sending message.
+2026-10-27 04:59:45.091 +00:00 [INF] Receiver durably stored C413E4C93D4B7D9DD5B1E7E5CD73B5994BDAE4A0B89B90BC1C9E5B4F4BFD831D; registration is pending.
+2026-10-27 04:59:45.091 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 27.2661 ms
+2026-10-27 04:59:46.882 +00:00 [ERR] File registration for C413E4C93D4B7D9DD5B1E7E5CD73B5994BDAE4A0B89B90BC1C9E5B4F4BFD831D failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 05:00:22.066 +00:00 [INF] HTTP GET /health responded 200 in 0.0847 ms
+2026-10-27 05:00:22.080 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3739 ms
+2026-10-27 05:00:22.082 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.3523 ms
+2026-10-27 05:01:19.385 +00:00 [INF] HTTP GET /health responded 200 in 0.0601 ms
+2026-10-27 05:01:19.398 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3418 ms
+2026-10-27 05:01:19.401 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2358 ms
+2026-10-27 05:01:44.982 +00:00 [DBG] Reading message.
+2026-10-27 05:01:44.983 +00:00 [DBG] Sending message.
+2026-10-27 05:01:44.984 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.058 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.058 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.108 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.109 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.140 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.140 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.146 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.146 +00:00 [INF] Receiver durably stored FB233B0E0008005D3BCE5ABB8348071CD965E2831537EE78493A25403A73CA31; registration is pending.
+2026-10-27 05:01:45.146 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 164.0029 ms
+2026-10-27 05:01:45.162 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.163 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.163 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.206 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.206 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.212 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.212 +00:00 [INF] Receiver durably stored 2C690D8B07AFC27B131C514F17F8254DC866E9256CD7751B96C2B5047D4D53A9; registration is pending.
+2026-10-27 05:01:45.213 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 50.5483 ms
+2026-10-27 05:01:45.224 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.225 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.225 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.244 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.244 +00:00 [DBG] Reading message.
+2026-10-27 05:01:45.250 +00:00 [DBG] Sending message.
+2026-10-27 05:01:45.250 +00:00 [INF] Receiver durably stored 981C94E078A750E19C8F28873F991526A01A1104CBB2E99F9518A94F3309D656; registration is pending.
+2026-10-27 05:01:45.250 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 26.1533 ms
+2026-10-27 05:01:48.138 +00:00 [WRN] File registration for FB233B0E0008005D3BCE5ABB8348071CD965E2831537EE78493A25403A73CA31 will retry at "2026-10-27T05:01:58.1371420+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:01:50.962 +00:00 [ERR] File registration for 981C94E078A750E19C8F28873F991526A01A1104CBB2E99F9518A94F3309D656 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 05:02:02.184 +00:00 [WRN] File registration for FB233B0E0008005D3BCE5ABB8348071CD965E2831537EE78493A25403A73CA31 will retry at "2026-10-27T05:02:22.1832464+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:02:21.729 +00:00 [INF] HTTP GET /health responded 200 in 0.0636 ms
+2026-10-27 05:02:21.743 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4489 ms
+2026-10-27 05:02:21.746 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2192 ms
+2026-10-27 05:02:23.363 +00:00 [WRN] File registration for FB233B0E0008005D3BCE5ABB8348071CD965E2831537EE78493A25403A73CA31 will retry at "2026-10-27T05:03:03.3615224+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:02:59.925 +00:00 [INF] HTTP GET /health responded 200 in 0.0647 ms
+2026-10-27 05:02:59.938 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3413 ms
+2026-10-27 05:02:59.941 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1514 ms
+2026-10-27 05:03:04.526 +00:00 [WRN] File registration for FB233B0E0008005D3BCE5ABB8348071CD965E2831537EE78493A25403A73CA31 will retry at "2026-10-27T05:04:24.5254394+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:03:44.985 +00:00 [DBG] Reading message.
+2026-10-27 05:03:44.986 +00:00 [DBG] Sending message.
+2026-10-27 05:03:44.986 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.034 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.034 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.082 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.082 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.125 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.125 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.167 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.167 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.204 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.204 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.211 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.211 +00:00 [INF] Receiver durably stored ADA6A37098CF1CF1484DB021B7257ACD46B2CC8D0EE4FC87C3413CE3172A25C7; registration is pending.
+2026-10-27 05:03:45.211 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 226.6731 ms
+2026-10-27 05:03:45.227 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.229 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.229 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.268 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.268 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.295 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.295 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.303 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.303 +00:00 [INF] Receiver durably stored BC047AB665551886925EA0D2CA23D74DA9CCC0E84FD854F5825AB0F687BB59D6; registration is pending.
+2026-10-27 05:03:45.303 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 75.8048 ms
+2026-10-27 05:03:45.320 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.321 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.321 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.363 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.364 +00:00 [DBG] Reading message.
+2026-10-27 05:03:45.371 +00:00 [DBG] Sending message.
+2026-10-27 05:03:45.371 +00:00 [INF] Receiver durably stored 785D52648D4B022648E51A14A17ACE415B743FAC84DDEC5FC11E6D4D1DE42BA4; registration is pending.
+2026-10-27 05:03:45.371 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 51.3356 ms
+2026-10-27 05:03:55.875 +00:00 [WRN] File registration for ADA6A37098CF1CF1484DB021B7257ACD46B2CC8D0EE4FC87C3413CE3172A25C7 will retry at "2026-10-27T05:04:05.8746349+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:04:02.404 +00:00 [ERR] File registration for 785D52648D4B022648E51A14A17ACE415B743FAC84DDEC5FC11E6D4D1DE42BA4 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 05:04:13.754 +00:00 [WRN] File registration for ADA6A37098CF1CF1484DB021B7257ACD46B2CC8D0EE4FC87C3413CE3172A25C7 will retry at "2026-10-27T05:04:33.7534892+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:04:35.146 +00:00 [WRN] File registration for FB233B0E0008005D3BCE5ABB8348071CD965E2831537EE78493A25403A73CA31 will retry at "2026-10-27T05:07:15.1444574+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:04:46.567 +00:00 [WRN] File registration for ADA6A37098CF1CF1484DB021B7257ACD46B2CC8D0EE4FC87C3413CE3172A25C7 will retry at "2026-10-27T05:05:26.5656475+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:04:51.096 +00:00 [INF] HTTP GET /health responded 200 in 0.0592 ms
+2026-10-27 05:04:51.110 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3428 ms
+2026-10-27 05:04:51.112 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1821 ms
+2026-10-27 05:05:27.951 +00:00 [WRN] File registration for ADA6A37098CF1CF1484DB021B7257ACD46B2CC8D0EE4FC87C3413CE3172A25C7 will retry at "2026-10-27T05:06:47.9499620+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:05:27.970 +00:00 [INF] HTTP GET /health responded 200 in 0.0539 ms
+2026-10-27 05:05:27.984 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3311 ms
+2026-10-27 05:05:27.986 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.1623 ms
+2026-10-27 05:05:44.989 +00:00 [DBG] Reading message.
+2026-10-27 05:05:44.991 +00:00 [DBG] Sending message.
+2026-10-27 05:05:44.991 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.022 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.022 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.028 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.028 +00:00 [INF] Receiver durably stored 6B88DD2A1340AAE2C568A852A37773C47593F78E63A673DD00D1A2FD5E3439B7; registration is pending.
+2026-10-27 05:05:45.028 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 38.6952 ms
+2026-10-27 05:05:45.038 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.040 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.040 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.054 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.054 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.060 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.061 +00:00 [INF] Receiver durably stored 7B9DA4C5E3ADE577C915DF0B1D24B709DCF515823F94E8A38B54220A0EA33CD0; registration is pending.
+2026-10-27 05:05:45.061 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 22.5092 ms
+2026-10-27 05:05:45.071 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.072 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.072 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.090 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.090 +00:00 [DBG] Reading message.
+2026-10-27 05:05:45.097 +00:00 [DBG] Sending message.
+2026-10-27 05:05:45.097 +00:00 [INF] Receiver durably stored 2C1589FE8B8B798342FC2A765C39135500B52E8F1774168D01E9C2456A009C3C; registration is pending.
+2026-10-27 05:05:45.097 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 25.9731 ms
+2026-10-27 05:05:48.793 +00:00 [WRN] File registration for 6B88DD2A1340AAE2C568A852A37773C47593F78E63A673DD00D1A2FD5E3439B7 will retry at "2026-10-27T05:05:58.7926309+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:05:48.818 +00:00 [ERR] File registration for 2C1589FE8B8B798342FC2A765C39135500B52E8F1774168D01E9C2456A009C3C failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 05:05:59.673 +00:00 [WRN] File registration for 6B88DD2A1340AAE2C568A852A37773C47593F78E63A673DD00D1A2FD5E3439B7 will retry at "2026-10-27T05:06:19.6727078+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:06:27.785 +00:00 [INF] HTTP GET /health responded 200 in 0.0600 ms
+2026-10-27 05:06:27.799 +00:00 [INF] HTTP GET /api/status responded 200 in 0.3205 ms
+2026-10-27 05:06:27.801 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2065 ms
+2026-10-27 05:06:30.554 +00:00 [WRN] File registration for 6B88DD2A1340AAE2C568A852A37773C47593F78E63A673DD00D1A2FD5E3439B7 will retry at "2026-10-27T05:07:10.5533484+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:06:52.002 +00:00 [WRN] File registration for ADA6A37098CF1CF1484DB021B7257ACD46B2CC8D0EE4FC87C3413CE3172A25C7 will retry at "2026-10-27T05:09:32.0008925+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:07:00.776 +00:00 [INF] HTTP GET /health responded 200 in 0.0626 ms
+2026-10-27 05:07:00.789 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4606 ms
+2026-10-27 05:07:00.792 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2648 ms
+2026-10-27 05:07:12.907 +00:00 [WRN] File registration for 6B88DD2A1340AAE2C568A852A37773C47593F78E63A673DD00D1A2FD5E3439B7 will retry at "2026-10-27T05:08:32.9066379+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:07:24.360 +00:00 [ERR] File registration for FB233B0E0008005D3BCE5ABB8348071CD965E2831537EE78493A25403A73CA31 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 05:07:44.990 +00:00 [DBG] Reading message.
+2026-10-27 05:07:44.992 +00:00 [DBG] Sending message.
+2026-10-27 05:07:44.992 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.040 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.040 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.089 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.089 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.119 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.119 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.126 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.126 +00:00 [INF] Receiver durably stored 217A8C98D7FC2562DDE5498AC45497478756C627C4A520A0A2A694E992E94536; registration is pending.
+2026-10-27 05:07:45.126 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 135.9071 ms
+2026-10-27 05:07:45.140 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.142 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.142 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.172 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.172 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.179 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.179 +00:00 [INF] Receiver durably stored D9B9A9E69E88B552F3AEDF908EE0E53AFAE10EF09529E34621A65F0DF4F9C174; registration is pending.
+2026-10-27 05:07:45.179 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 38.8389 ms
+2026-10-27 05:07:45.191 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.192 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.192 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.211 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.211 +00:00 [DBG] Reading message.
+2026-10-27 05:07:45.217 +00:00 [DBG] Sending message.
+2026-10-27 05:07:45.217 +00:00 [INF] Receiver durably stored 9D7FDE21861D7245893F88A4D86B91E979127F34E19151A4EAA7C4A0E0C9C28A; registration is pending.
+2026-10-27 05:07:45.217 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 25.8249 ms
+2026-10-27 05:07:55.897 +00:00 [WRN] File registration for 217A8C98D7FC2562DDE5498AC45497478756C627C4A520A0A2A694E992E94536 will retry at "2026-10-27T05:08:05.8962453+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:07:58.861 +00:00 [ERR] File registration for 9D7FDE21861D7245893F88A4D86B91E979127F34E19151A4EAA7C4A0E0C9C28A failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 05:08:10.313 +00:00 [WRN] File registration for 217A8C98D7FC2562DDE5498AC45497478756C627C4A520A0A2A694E992E94536 will retry at "2026-10-27T05:08:30.3120215+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:08:23.258 +00:00 [INF] HTTP GET /health responded 200 in 0.0789 ms
+2026-10-27 05:08:23.271 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4262 ms
+2026-10-27 05:08:23.274 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2421 ms
+2026-10-27 05:08:31.805 +00:00 [WRN] File registration for 217A8C98D7FC2562DDE5498AC45497478756C627C4A520A0A2A694E992E94536 will retry at "2026-10-27T05:09:11.8040877+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:08:42.740 +00:00 [WRN] File registration for 6B88DD2A1340AAE2C568A852A37773C47593F78E63A673DD00D1A2FD5E3439B7 will retry at "2026-10-27T05:11:22.7396500+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:09:14.244 +00:00 [WRN] File registration for 217A8C98D7FC2562DDE5498AC45497478756C627C4A520A0A2A694E992E94536 will retry at "2026-10-27T05:10:34.2429165+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:09:35.930 +00:00 [ERR] File registration for ADA6A37098CF1CF1484DB021B7257ACD46B2CC8D0EE4FC87C3413CE3172A25C7 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 05:09:43.316 +00:00 [INF] HTTP GET /health responded 200 in 0.0617 ms
+2026-10-27 05:09:43.330 +00:00 [INF] HTTP GET /api/status responded 200 in 0.4697 ms
+2026-10-27 05:09:43.332 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.3581 ms
+2026-10-27 05:10:37.427 +00:00 [WRN] File registration for 217A8C98D7FC2562DDE5498AC45497478756C627C4A520A0A2A694E992E94536 will retry at "2026-10-27T05:13:17.4265971+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:10:45.008 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.009 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.009 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 0.6796 ms
+2026-10-27 05:10:45.017 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.018 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.018 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.059 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.059 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.083 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.083 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.090 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.090 +00:00 [INF] Receiver durably stored AE15F0D44E60DCA71681CF4AE62B3BBF0F6CFE3906CFF44A2EEE3F4145DE282F; registration is pending.
+2026-10-27 05:10:45.090 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 73.0177 ms
+2026-10-27 05:10:45.101 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.103 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.103 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.139 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.140 +00:00 [DBG] Reading message.
+2026-10-27 05:10:45.145 +00:00 [DBG] Sending message.
+2026-10-27 05:10:45.145 +00:00 [INF] Receiver durably stored E26747237548C0DA380F30BD05AF09B5692872488071C106D77886B2F3F13C78; registration is pending.
+2026-10-27 05:10:45.145 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 44.0811 ms
+2026-10-27 05:10:54.249 +00:00 [ERR] File registration for E26747237548C0DA380F30BD05AF09B5692872488071C106D77886B2F3F13C78 failed permanently. ErrorCode: INVALID_JSON
+2026-10-27 05:11:25.156 +00:00 [ERR] File registration for 6B88DD2A1340AAE2C568A852A37773C47593F78E63A673DD00D1A2FD5E3439B7 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 05:11:44.986 +00:00 [DBG] Reading message.
+2026-10-27 05:11:44.987 +00:00 [DBG] Sending message.
+2026-10-27 05:11:44.987 +00:00 [DBG] Reading message.
+2026-10-27 05:11:45.043 +00:00 [DBG] Sending message.
+2026-10-27 05:11:45.044 +00:00 [DBG] Reading message.
+2026-10-27 05:11:45.093 +00:00 [DBG] Sending message.
+2026-10-27 05:11:45.094 +00:00 [DBG] Reading message.
+2026-10-27 05:11:45.135 +00:00 [DBG] Sending message.
+2026-10-27 05:11:45.135 +00:00 [DBG] Reading message.
+2026-10-27 05:11:45.175 +00:00 [DBG] Sending message.
+2026-10-27 05:11:45.175 +00:00 [DBG] Reading message.
+2026-10-27 05:11:45.209 +00:00 [DBG] Sending message.
+2026-10-27 05:11:45.209 +00:00 [DBG] Reading message.
+2026-10-27 05:11:45.215 +00:00 [DBG] Sending message.
+2026-10-27 05:11:45.216 +00:00 [INF] Receiver durably stored 86E4A965EDC7C97B2704BA4CD4317E97E012FD7E7916E1D5A4F24ED5F544367B; registration is pending.
+2026-10-27 05:11:45.216 +00:00 [INF] HTTP POST /ulagent.transfer.v1.FileTransferService/Transfer responded 200 in 230.1323 ms
+2026-10-27 05:11:56.785 +00:00 [WRN] File registration for 86E4A965EDC7C97B2704BA4CD4317E97E012FD7E7916E1D5A4F24ED5F544367B will retry at "2026-10-27T05:12:06.7837878+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:12:18.434 +00:00 [WRN] File registration for 86E4A965EDC7C97B2704BA4CD4317E97E012FD7E7916E1D5A4F24ED5F544367B will retry at "2026-10-27T05:12:38.4332831+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:12:22.875 +00:00 [INF] HTTP GET /health responded 200 in 0.0776 ms
+2026-10-27 05:12:22.888 +00:00 [INF] HTTP GET /api/status responded 200 in 0.5904 ms
+2026-10-27 05:12:22.891 +00:00 [INF] HTTP GET /api/receives responded 200 in 1.2946 ms
+2026-10-27 05:12:40.078 +00:00 [WRN] File registration for 86E4A965EDC7C97B2704BA4CD4317E97E012FD7E7916E1D5A4F24ED5F544367B will retry at "2026-10-27T05:13:20.0771305+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:13:21.814 +00:00 [ERR] File registration for 217A8C98D7FC2562DDE5498AC45497478756C627C4A520A0A2A694E992E94536 failed permanently. ErrorCode: API_UNAVAILABLE
+2026-10-27 05:13:23.497 +00:00 [WRN] File registration for 86E4A965EDC7C97B2704BA4CD4317E97E012FD7E7916E1D5A4F24ED5F544367B will retry at "2026-10-27T05:14:43.4962423+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:14:45.131 +00:00 [WRN] File registration for 86E4A965EDC7C97B2704BA4CD4317E97E012FD7E7916E1D5A4F24ED5F544367B will retry at "2026-10-27T05:17:25.1302900+00:00". ErrorCode: API_UNAVAILABLE
+2026-10-27 05:17:26.791 +00:00 [ERR] File registration for 86E4A965EDC7C97B2704BA4CD4317E97E012FD7E7916E1D5A4F24ED5F544367B failed permanently. ErrorCode: API_UNAVAILABLE
