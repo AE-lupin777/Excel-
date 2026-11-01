@@ -1,0 +1,45 @@
+{
+  "ControlJobID": "CJ-20261027022900-001",
+  "CarrierID": "CARRIER-TEST-20261027022900",
+  "LotID": "LOT-TEST-20261027022900",
+  "FlowRecipe": "TEST_RECIPE",
+  "StartTime": "2026/10/27 02:29:00.292+0900",
+  "EndTime": "2026/10/27 02:39:00.292+0900",
+  "Wafers": [
+	    {
+	      "LocalID": "20261027022900-0001",
+	      "WaferID": "WF-20261027022900-001",
+	      "ProcessJobID": "PJ-TEST-20261027022900-001",
+	      "TransferRoute": ["A"],
+	      "StartTime": "2026/10/27 02:31:00.292+0900",
+	      "EndTime": "2026/10/27 02:39:00.292+0900",
+	      "ChamberDatas": [
+	        {
+	          "Chamber": "A",
+	          "RecipeName": "TEST_RECIPE_001",
+	          "StartTime": "2026/10/27 02:32:00.292+0900",
+	          "EndTime": "2026/10/27 02:39:00.292+0900",
+	          "Steps": [
+	            {
+	              "StepNo": "1",
+	              "OriginalStepNo": "1",
+	              "RepeatStepCount": "0",
+	              "StartTime": "2026/10/27 02:33:00.292+0900",
+	              "EndTime": "2026/10/27 02:39:00.292+0900", "Datas": [{"Time":"2026/10/27 02:30:00.292+0900","Name":"Pressure","Value":10.0,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:00.392+0900","Name":"Pressure","Value":10.1,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:00.492+0900","Name":"Pressure","Value":10.2,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:00.592+0900","Name":"Pressure","Value":10.3,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:00.692+0900","Name":"Pressure","Value":10.4,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:00.792+0900","Name":"Pressure","Value":10.5,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:00.892+0900","Name":"Pressure","Value":10.6,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:00.992+0900","Name":"Pressure","Value":10.7,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:01.092+0900","Name":"Pressure","Value":10.8,"Unit":"Pa"},
+{"Time":"2026/10/27 02:30:01.192+0900","Name":"Pressure","Value":10.9,"Unit":"Pa"}]
+	            }
+	          ]
+	        }
+	      ]
+	    }
+	}
+  ]
+}
